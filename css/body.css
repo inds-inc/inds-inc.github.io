@@ -1,0 +1,10 @@
+body {
+  background-color: #006d88;
+}
+
+#container {
+  width: 980px;
+  margin: 0 auto;
+  line-height: 1.6;
+  background: #006d88 url(/assets/images/background.png) top center repeat-y;
+}
