@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         kramdown
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'INDS-Inc'
+tagline:          'Integrated Nonclinical Development Solutions, Inc.'
+description:      'W'
+url:              http://inds-inc.com
+baseurl:          '/'
+paginate:         10
+
+author:
+  name:           'Mike Ward'
+  email:          'mike.ward@inds-inc.com'
+  url:            'https://twitter.com/mikeward_aa'
+
+gems:
+  - jekyll-sitemap
+
+version:          '1.0.0'
+
+github:
+  repo:           'https://github.com/inds-inc/inds-inc.github.io'
+
+sass:
+    style:        ':compressed'
