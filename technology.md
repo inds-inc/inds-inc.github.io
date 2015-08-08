@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Technology Services
+Technology Services
+-------------------
 
 Managing nonclinical data can be challenging. Preparing reports and regulatory
 submissions from disparate systems is time-consuming and costly. Soon sponsors
@@ -40,7 +41,7 @@ you!
 ### Standard for Exchange of Nonclinical Data (SEND)
 
 -   SEND data review, analysis/visualization and warehousing with the [SEND
-    Explorer product family](/sendexplorer)
+    Explorer product family](/sendexplorer-product-family)
 -   Training and readiness assessment
 -   Implementation and validation support
 -   Experienced with several commercial PK and Safety Pharmacology systems
