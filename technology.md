@@ -35,12 +35,12 @@ you!
 -   Web-based database application for pharmaceutical consortium
 -   Developers of [DSI-R reporting
     tool](http://www.datasci.com/products/software/ponemah/dsi-reporting) for
-    Ponemah and [SEND Explorer](http://inds-inc.com/sendexplorer.php)
+    Ponemah and [SEND Explorer](/sendexplorer)
 
 ### Standard for Exchange of Nonclinical Data (SEND)
 
 -   SEND data review, analysis/visualization and warehousing with the [SEND
-    Explorer product family](http://inds-inc.com/sendexplorer.php)
+    Explorer product family](/sendexplorer)
 -   Training and readiness assessment
 -   Implementation and validation support
 -   Experienced with several commercial PK and Safety Pharmacology systems
