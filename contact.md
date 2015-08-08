@@ -14,7 +14,7 @@ solutions as if our company depends on the outcome, because it does.
 We strive to develop lasting relationships and are committed to your long-term
 success.
 
-![mIco50](/assets/images/mIco50.gif)
+![mIco50](/assets/images/mIco50.png)
 
 ### Contact
 
