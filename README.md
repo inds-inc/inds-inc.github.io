@@ -4,7 +4,7 @@
 
 <http://inds-inc.com>
 
-<tel://1-734.292-392>
+[1-734-292-5392](<tel:1734292392>)
 
 ### The INDS Advantage
 
