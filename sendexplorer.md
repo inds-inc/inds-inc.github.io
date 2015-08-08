@@ -2,18 +2,19 @@
 layout: default
 ---
 
-## Send Explorer
+Send Explorer - Your Path to Better Study Visualization
+-------------------------------------------------------
 
 ![se-small](/assets/images/se-small.jpg)
 ![se-plus-small](/assets/images/se-plus-small.jpg)
 
 Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is pleased to
-announce the release of **SEND Explorer**™ and **SEND Explorer Plus™** v3.0.
-These validated, web-based applications were designed by scientists to provide
+announce the release of SEND Explorer™ and SEND Explorer Plus™ v3.0. These
+validated, web-based applications were designed by scientists to provide
 advanced viewing, data summarization, and visualization capabilities for study
 data produced in SEND (Standard for Exchange of Nonclinical Data) format.
 
-New features for v3.0 include the following:
+#### New features for v3.0 include the following:
 
 -   A subject-centric graphical visualization that simultaneously puts a
     subject's findings for selected endpoints into perspective within its own
@@ -28,15 +29,15 @@ New features for v3.0 include the following:
 -   Hyperlinked comments and supplemental qualifiers
 -   Multi-domain subject view
 
-**SEND Explorer** is ideal for organizations implementing the SEND standard for
-the review/QC of SEND datasets prior to submission to FDA. SEND Explorer
-provides flexible summarization capabilities and scientifically-relevant
-visualizations to help researchers identify trends and patterns in data from a
-single study. **SEND Explorer Plus** includes a database to extend SEND Explorer
+SEND Explorer is ideal for organizations implementing the SEND standard for the
+review/QC of SEND datasets prior to submission to FDA. SEND Explorer provides
+flexible summarization capabilities and scientifically-relevant visualizations
+to help researchers identify trends and patterns in data from a single
+study. SEND Explorer Plus includes a database to extend SEND Explorer
 functionality to the multi-study environment and provides powerful yet intuitive
 cross-study querying capabilities and multi-study visualizations.
 
-SEND Explorer™ features include:
+#### SEND Explorer™ features include:
 
 -   A robust data grid that merges subject and group metadata with associated
     results
@@ -52,8 +53,7 @@ SEND Explorer™ features include:
 -   Hyperlink to multi-domain subject view with tabular and graphical displays
     of data
 
-Key SEND Explorer Plus™ includes all of the above features and additionally
-includes:
+#### Key SEND Explorer Plus™ includes these additional features
 
 -   Straight-forward load interface and study dashboard
 -   Fully-compliant SEND-based data model
@@ -65,16 +65,16 @@ includes:
 
 ### Purchase SEND Explorer™ or SEND Explorer Plus™
 
-**SEND Explorer** v3.0 and **SEND Explorer Plus** v3.0 are now available for
-purchase. Our site licensing model and perpetual vs. subscription-based
-purchasing options are very cost effective for early-adopter organizations.
+SEND Explorer v3.0 and SEND Explorer Plus v3.0 are now available for purchase.
+Our site licensing model and perpetual vs. subscription-based purchasing options
+are very cost effective for early-adopter organizations.
 
 ### SEND Explorer™ Product Family
 
-**SEND Explorer** and **SEND Explorer Plus** are components of the [SEND
-Explorer Product Family](http://inds-inc.com/sendexplorerplus.php) that also
-includes**SEND Explorer Express™** (a no cost SEND viewing tool with restricted
-functionality) and **SEND Explorer Warehouse™** (for warehousing SEND data along
+SEND Explorer and SEND Explorer Plus are components of the [SEND Explorer
+Product Family](http://inds-inc.com/sendexplorerplus.php) that also includes
+SEND Explorer Express™ (a no cost SEND viewing tool with restricted
+functionality) and SEND Explorer Warehouse™ (for warehousing SEND data along
 with legacy and non-SEND data sources). Please
 contact<sendexperts@inds-inc.com> for more information on any of these tools.
 
