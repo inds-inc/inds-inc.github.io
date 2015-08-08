@@ -15,3 +15,22 @@ body {
 #title { font-size: xx-large; text-align: center; margin: 1em 0; }
 #title img { vertical-align: middle; }
 .column { padding: 0 20px;}
+
+a { color:#CC6714; text-decoration: none;	}
+a:hover {	color:#CC6714; background-color: #F5F5F5;	}
+
+.navigation a {
+	display: block;
+	padding: 5px;
+	border-bottom: 1px solid #CCC;
+}
+.navigation a:link, #navlist a:visited {
+	color:#CC6714;
+	text-decoration: none;
+}
+		
+.navigation a:hover {
+	background: #000000 url(arrow.gif) 96% 50% no-repeat;
+	background-color: #F5F5F5;
+	color:#CC6714;
+}    
