@@ -131,7 +131,7 @@ of science degree in computer science from Eastern Michigan University.
 Mike Ward, BS
 -------------
 
-### Senor IT Consultant
+### Senior IT Consultant
 
 Mike has over 30 years of programming experience using a wide range of
 technologies.
@@ -145,7 +145,7 @@ level medical imaging and archive systems. He also designed and developed most
 of the reporting technologies used in their medical imaging and archive package,
 making extensive use of XML, C\# and related technologies.
 
-Mike holds a bachelor of science from the University of Michigan.
+Mike holds a bachelor of science degree from the University of Michigan.
 
 Krista K. Greenwood, PhD
 ------------------------
