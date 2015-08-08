@@ -1,4 +1,4 @@
-@import url(//fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 
 body {
   font-family: 'Raleway', sans-serif;
@@ -36,7 +36,6 @@ a:hover {	color:#CC6714; background-color: #F5F5F5;	}
 }
 		
 .navigation a:hover {
-	background: #000000 url(arrow.gif) 96% 50% no-repeat;
 	background-color: #F5F5F5;
 	color:#CC6714;
 }    
