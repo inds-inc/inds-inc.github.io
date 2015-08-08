@@ -12,5 +12,6 @@ body {
 }
 
 #header { margin-left: 10px; }
-#title { font-size: xx-large; vertical-align: middle; }
+#title { font-size: xx-large; text-align: center; }
+#title img { vertical-align: middle; }
 .column { padding: 0 20px;}
