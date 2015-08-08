@@ -7,6 +7,10 @@ body {
   background-color: #006d88;
 }
 
+html, button, input, select, textarea, .pure-g [class *= "pure-u"] {
+    font-family: 'Raleway', sans-serif;
+}
+
 #container {
   width: 980px;
   margin: 0 auto;
