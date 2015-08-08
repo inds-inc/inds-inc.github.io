@@ -1,45 +1,38 @@
 <div class="pure-menu navigation">
   <ul class="pure-menu-list">
     <li class="pure-menu-item">
-      <a href="index.php">Home</a>
+      <a href="/">Home</a>
     </li>
     <li class="pure-menu-item">
-      <a href="sendexplorer.php">SEND Explorer&#0153</a>
+      <a href="/sendexplorer.html">SEND Explorer&trade;</a>
     </li>
     <!--<li><a href="https://sendexplorer.azurewebsites.net/products">SEND Explorer&#0153 Product Family</a></li>-->
     <li class="pure-menu-item">
-      <a href="sendexplorerplus.php">SEND Explorer&#0153 Product Family</a>
+      <a href="/sendexplorerplus.html">SEND Explorer&trade; Product Family</a>
     </li>
     <li class="pure-menu-item">
-      <a href="toxicology.php">Toxicology Services</a>
+      <a href="/toxicology.html">Toxicology Services</a>
     </li>
     <li class="pure-menu-item">
-      <a href="technology.php">Technology Services</a>
+      <a href="/technology.html">Technology Services</a>
     </li>
     <li class="pure-menu-item">
-      <a href="biographies.php">About Us</a>
+      <a href="/biographies.html">About Us</a>
     </li>
     <li class="pure-menu-item">
-      <a href="images/brochure.pdf">Brochure</a>
+      <a href="/assets/images/brochure.pdf">Brochure</a>
     </li>
     <li class="pure-menu-item">
-      <a href="contact.php">Contact</a>
+      <a href="/contact.html">Contact</a>
     </li>
     <li class="pure-menu-item">
+      <p style="font-size: smaller">
+        <strong>Phone&nbsp;&raquo;&nbsp;<a href="tel:17349295392">734.929.5392</a></strong>
+        <strong>Email&nbsp;&raquo;&nbsp;<a href="mailto:info@inds-inc.com">&nbsp;&nbsp;info@inds-inc.com</a></strong>
+      </p>
       <p>
-        <strong>Phone&nbsp;734.929.5392</strong>
-        <strong>Email&nbsp;<a href="mailto:info@inds-inc.com">&nbsp;&nbsp;info@inds-inc.com</a></strong>
-        <p>
-          <strong>Follow us on:</strong>
-          <a href="http://www.linkedin.com/company/integrated-nonclinical-development-solutions-inc-inds-/"
-          target="_blank">
-<img src="\images\linkedin.jpg" height="35" width="35"/></a>
-          <div>
-            <a class="twitter-timeline" href="https://twitter.com/INDSInc" data-widget-id="621779453769875456" height=350>Tweets by @INDSInc</a>
-            <script>
-              !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-            </script>
-          </div>
+        {% include social.html %}
+      </p>
     </li>
   </ul>
 </div>
