@@ -14,9 +14,23 @@ solutions as if our company depends on the outcome, because it does.
 We strive to develop lasting relationships and are committed to your long-term
 success.
 
+![mIco50](/assets/images/mIco50.gif)
+
 ### Contact
 
-Please send inquiries to us by email at **<info@inds-inc.com>** or call our main
+Please send inquiries to us by email at <info@inds-inc.com> or call our main
 phone number at [734.929.5392](tel:17349295392)
 
-![mIco50](/assets/images/mIco50.gif)
+### Trademarks
+
+The following are all trademarks of INDS Inc.
+
+SEND Explorer™
+
+SEND Explorer Plus™
+
+SEND Explorer Express™
+
+SEND Explorer Warehouse™
+
+Severity Heatmap™
