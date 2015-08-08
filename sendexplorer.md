@@ -55,7 +55,7 @@ cross-study querying capabilities and multi-study visualizations.
 
 #### SEND Explorer Plus features
 
--   All SENED Explorer features
+-   All SEND Explorer features
 -   Straight-forward load interface and study dashboard
 -   Fully-compliant SEND-based data model
 -   Multi-study/multi-domain data query grid
@@ -73,11 +73,11 @@ very cost effective for early-adopter organizations.
 ### SEND Explorer Product Family
 
 SEND Explorer and SEND Explorer Plus are components of the [SEND Explorer
-Product Family](/sendexplorer-proeduct-family) that also includes
-SEND Explorer Express (a no cost SEND viewing tool with restricted
-functionality) and SEND Explorer Warehouse (for warehousing SEND data along with
-legacy and non-SEND data sources). Please contact<sendexperts@inds-inc.com> for
-more information on any of these tools.
+Product Family](/sendexplorer-product-family) that also includes SEND Explorer
+Express (a no cost SEND viewing tool with restricted functionality) and SEND
+Explorer Warehouse (for warehousing SEND data along with legacy and non-SEND
+data sources). Please contact <sendexperts@inds-inc.com> for more information on
+any of these tools.
 
 ### Try for Free
 
