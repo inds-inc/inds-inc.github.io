@@ -79,7 +79,7 @@ functionality) and SEND Explorer Warehouse (for warehousing SEND data along wi
 legacy and non-SEND data sources). Please contact<sendexperts@inds-inc.com> for
 more information on any of these tools.
 
-### Try it for Free
+### Try for Free
 
 Want to try SEND Explorer? [SEND Explorer
 Express](http://www.sendexplorer.com/) is a free, hosted version of SEND

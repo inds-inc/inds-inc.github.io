@@ -25,12 +25,12 @@ phone number at [734.929.5392](tel:17349295392)
 
 The following are all trademarks of INDS Inc.
 
-SEND Explorer™
-
-SEND Explorer Plus™
-
-SEND Explorer Express™
-
-SEND Explorer Warehouse™
-
-Severity Heatmap™
+> SEND Explorer™
+>
+> SEND Explorer Plus™
+>
+> SEND Explorer Express™
+>
+> SEND Explorer Warehouse™
+>
+> Severity Heatmap™
