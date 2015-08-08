@@ -53,7 +53,7 @@ cross-study querying capabilities and multi-study visualizations.
 -   Hyperlink to multi-domain subject view with tabular and graphical displays
     of data
 
-#### Key SEND Explorer Plus™ includes these additional features
+#### SEND Explorer Plus™ includes these additional features
 
 -   Straight-forward load interface and study dashboard
 -   Fully-compliant SEND-based data model
