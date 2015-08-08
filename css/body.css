@@ -42,4 +42,29 @@ a:hover {	color:#CC6714; background-color: #F5F5F5;	}
 .navigation a:hover {
 	background-color: #F5F5F5;
 	color:#CC6714;
-}    
+}
+
+#footer {
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: right;
+	clear: both;
+	background-color:#005167;
+	padding: 0px 5px 0px 5px;
+}
+		
+#footer p {
+	color:#fff;
+	padding: 5px;
+}
+
+#footer p a {
+	color: #fff;
+	border-bottom: 1px dotted #CC6714;
+}
+
+#footer p a:hover {
+	color: #FFFFFF;
+	background-color:#006d88;
+}
