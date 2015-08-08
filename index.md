@@ -28,7 +28,7 @@ certified toxicologists, veterinarians, and information technology and business
 operations experts with more than 100 years of combined experience in the
 pharmaceutical and contract research industries.
 
-### We have experience with
+### Our Experience
 
 -   Advancing over 120 compounds in all major therapeutic areas to clinical
     trials, using both traditional and alternative paradigms, including filing
