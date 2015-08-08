@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## SEND Explorer &amp; SEND Explorer Plus v3.0™ Released!
+## SEND Explorer™ &amp; SEND Explorer Plus™ v3.0 Released!
 
 ![se-small](/assets/images/se-small.jpg)
 ![se-plus-small](/assets/images/se-plus-small.jpg)
