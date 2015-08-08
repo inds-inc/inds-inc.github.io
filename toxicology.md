@@ -38,7 +38,8 @@ Utilize the expertise of the INDS Team to provide your solutions.
 -   Pediatric Drugs
 -   Study Monitoring/GLP Regulations
 -   Drug Device Combination Products
--   Medical Device Biocompatibility Testing ![Image](/assets/images/maze.png)
+-   Medical Device Biocompatibility Testing  
+    ![Image](/assets/images/maze.png)
 
 ### Nonclinical Safety Program Design
 
