@@ -15,9 +15,9 @@ h2, h3, h4 { font-weight: normal; }
 ul, ol { margin-left: -1em; }
 
 #header { margin-left: 10px; }
-#title { font-size: xx-large; text-align: center; margin: 1em 0; }
+#title { font-size: xx-large; font-weight: bold; text-align: center; margin: 1em 0; }
 #title img { vertical-align: middle; }
-.column { padding: 0 20px;}
+.column { padding: 0 30px 0 20px; }
 
 a { color:#CC6714; text-decoration: none;	}
 a:hover {	color:#CC6714; background-color: #F5F5F5;	}
