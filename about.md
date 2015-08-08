@@ -131,7 +131,7 @@ of science degree in computer science from Eastern Michigan University.
 Mike Ward, BS
 -------------
 
-### Senior IT Consultant
+### Senior Programmer
 
 Mike has over 30 years of programming experience using a wide range of
 technologies.
