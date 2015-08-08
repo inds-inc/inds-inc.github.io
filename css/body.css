@@ -18,7 +18,7 @@ html, button, input, select, textarea, .pure-g [class *= "pure-u"] {
   background: #006d88 url(/assets/images/background.png) top center repeat-y;
 }
 
-h2, h3, h4 { font-weight: normal; }
+h2, h3, h4 { font-weight: normal; letter-spacing: 2px; }
 ul, ol { margin-left: -1em; }
 .column { padding: 0 40px 0 20px; }
 
