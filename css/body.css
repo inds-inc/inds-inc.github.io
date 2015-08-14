@@ -137,6 +137,7 @@ a.post-read-more {
 @media (max-width: 640px) {
   body { 
     background: none; 
+    font-size: smaller; 
     margin: 0;
   }
   
