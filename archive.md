@@ -2,6 +2,8 @@
 layout: default  
 title: Archive
 ---
+## Archive
+
 {% for post in site.posts %}
 {% capture month %}{{ post.date | date: '%m' }}{% endcapture %}
 {% capture nmonth %}{{ post.next.date | date: '%m' }}{% endcapture %}
