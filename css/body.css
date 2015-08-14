@@ -142,11 +142,16 @@ a.post-read-more {
   #container {
     width: 100%;
   }
+  
+  #twitter {
+    display: none;
+  }
 }
 
 @media (max-width: 480px) {
   body { 
-    background: none; 
+    background: none;
+    font-size: smaller; 
   }
  
   #header img {
@@ -155,5 +160,9 @@ a.post-read-more {
   
   #container {
     width: 100%;
+  }
+  
+  #twitter {
+    display: none;
   }
 }
