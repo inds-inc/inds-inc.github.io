@@ -133,11 +133,12 @@ a.post-read-more {
 @media (max-width: 640px) {
   body { 
     background: none; 
+    margin: 0;
   }
   
-  #header img {
-    width: 100%;
-  }
+  img {
+    max-width: 100%
+  }  
   
   #container {
     width: 100%;
@@ -156,11 +157,12 @@ a.post-read-more {
   body { 
     background: none;
     font-size: smaller; 
+    margin: 0;
   }
  
-  #header img {
-    width: 100%;
-  }
+  img {
+    max-width: 100%
+  }  
   
   #container {
     width: 100%;
