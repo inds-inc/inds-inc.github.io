@@ -117,19 +117,43 @@ a.post-read-more {
 }
 
 @media (max-width: 768px) {
+  body { 
+    background: none; 
+  }
+
+  #header {
+    width: 100%;
+  }
+    
   #container {
-    width: 480px;
+    width: 100%;
   }
 }
 
 @media (max-width: 640px) {
+  body { 
+    background: none; 
+  }
+  
+  #header {
+    width: 100%;
+  }
+  
   #container {
-    width: 640px;
+    width: 100%;
   }
 }
 
 @media (max-width: 480px) {
+  body { 
+    background: none; 
+  }
+ 
+  #header {
+    width: 100%;
+  }
+  
   #container {
-    width: 480px;
+    width: 100%;
   }
 }
