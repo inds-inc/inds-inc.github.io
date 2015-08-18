@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tech meets Tox: Using Google Glass for tele-toxicology consults"
+title: "Tox Tuesday - Tech meets Tox: Using Google Glass for tele-toxicology consults"
 ---
 
 [Emergency medicine residents at UMass Medical School wore
