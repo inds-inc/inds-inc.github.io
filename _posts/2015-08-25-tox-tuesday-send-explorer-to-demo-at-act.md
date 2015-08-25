@@ -3,7 +3,7 @@ layout: post
 title: "Tox Tuesday: SEND Explorer to Demo at ACT"
 ---
 
-![HP\_banner](http://i.imgur.com/3VGeeSG.jpg)
+![HP_banner](http://i.imgur.com/liEZ2uz.jpg)
 
 The American College of Toxicology Annual Meeting is Nov 8-11th in Las Vegas,
 NV. Jim, [Joyce](mailto:joyce.zandee@inds-inc.com) and
