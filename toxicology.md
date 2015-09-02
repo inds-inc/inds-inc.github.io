@@ -11,7 +11,7 @@ quality standards that your company and regulatory authorities expect. Due
 diligence inspections can be critical for your company's success - whether
 you're in- or out-licensing drug candidates.
 
-Utilize the expertise of the INDS Team to provide your solutions.
+Utilize the expertise of the INDS Team today.
 
 ### Regulatory Submission Preparation
 
