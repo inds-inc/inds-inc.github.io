@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div style="text-align:center">
+<hr>
 <a href="http://inds-inc.com/2016/02/03/we-hiring/"><img src="/assets/images/we-are-hiring.png"></a><br>
 <a href="http://inds-inc.com/2016/02/03/we-hiring/">Click here for details</a>
 <hr>
