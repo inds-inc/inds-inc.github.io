@@ -2,9 +2,8 @@
 layout: default
 ---
 
-[![we-are-hiring](/assets/images/we-are-hiring.png)](http://inds-inc.com/2016/02/03/we-hiring/)
-
 <div style="text-align:center">
+<img src="/assets/images/we-are-hiring.png"><br>
 <a href="http://inds-inc.com/2016/02/03/we-hiring/">Click here for details</a>
 </div>
 
