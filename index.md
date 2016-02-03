@@ -4,6 +4,8 @@ layout: default
 
 [![we-are-hiring](/assets/images/we-are-hiring.png)](http://inds-inc.com/2016/02/03/we-hiring/)
 
+[Click here for details](http://inds-inc.com/2016/02/03/we-hiring/)
+
 ### SEND Explorer & SEND Explorer Plus 3.0 Released!
 
 ![se-small](/assets/images/se-small.jpg)
