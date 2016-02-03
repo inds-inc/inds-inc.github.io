@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![we-are-hiring](/assets/images/we-are-hiring.png)](http://inds-inc.com/news/2016-02-03-we-hiring)
+[![we-are-hiring](/assets/images/we-are-hiring.png)](http://inds-inc.com/2016/02/03/we-hiring/)
 
 ### SEND Explorer & SEND Explorer Plus 3.0 Released!
 
