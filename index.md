@@ -4,7 +4,9 @@ layout: default
 
 [![we-are-hiring](/assets/images/we-are-hiring.png)](http://inds-inc.com/2016/02/03/we-hiring/)
 
-[Click here for details](http://inds-inc.com/2016/02/03/we-hiring/)
+<div style="text-align:center">
+<a href="http://inds-inc.com/2016/02/03/we-hiring/">Click here for details</a>
+</div>
 
 ### SEND Explorer & SEND Explorer Plus 3.0 Released!
 
