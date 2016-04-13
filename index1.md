@@ -3,9 +3,19 @@ layout: default
 ---
 
 
-### SEND Explorer
+### Single Study Visualizations
 
 <div class="pure-g">
+  <div class="pure-u-1-2">
+    <a href="/assets/se-images/Slide3.PNG" 
+       data-lightbox="slide-3"
+       data-caption="Severity Heat Map"> 
+      <img class="thumbsize" src="/assets/se-images/Slide3.PNG" alt="" />
+    </a>
+    <p class="thumbtitle">Severity Heat Map</p>
+    <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
+    <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
+  </div>
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide1.PNG" 
        data-lightbox="slide-1"> 
@@ -23,14 +33,6 @@ layout: default
     <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
   </div>
   <div class="pure-u-1-2">
-    <a href="/assets/se-images/Slide3.PNG" 
-       data-lightbox="slide-3"> 
-      <img class="thumbsize" src="/assets/se-images/Slide3.PNG" alt="" />
-    </a>
-    <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
-    <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
-  </div>
-  <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide4.PNG" 
        data-lightbox="slide-4"> 
       <img class="thumbsize" src="/assets/se-images/Slide4.PNG" alt="" />
@@ -38,6 +40,11 @@ layout: default
     <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
     <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
   </div>
+</div>
+
+### Multi-Study Visualizations
+
+<div class="pure-g">
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide5.PNG" 
        data-lightbox="slide-5"> 

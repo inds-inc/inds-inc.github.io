@@ -120,6 +120,10 @@ a.post-read-more {
     width: 90%;
 }
 
+.thumbtitle {
+    font-weight: bold;
+}
+
 @media (max-width: 768px) {
   body { 
     background: none; 
