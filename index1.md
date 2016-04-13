@@ -17,7 +17,7 @@ layout: default
       <a href="/assets/images/maze.png" 
          data-lightbox="image-1" 
          data-title="My caption">
-        <img src="assets/images/maze.png" alt="" />
+        <img class="thumbsize" src="/assets/images/maze.png" alt="" />
       </a>
       <p>I'm some text</p>
     </div>
@@ -25,7 +25,7 @@ layout: default
       <a href="/assets/images/maze.png" 
          data-lightbox="image-2" 
          data-title="My caption">
-        <img src="assets/images/maze.png" alt="" />
+        <img class="thumbsize" src="/assets/images/maze.png" alt="" />
       </a>
       <p>I'm some text</p>
     </div>
@@ -33,7 +33,7 @@ layout: default
       <a href="/assets/images/maze.png" 
          data-lightbox="image-3" 
          data-title="My caption">
-        <img src="assets/images/maze.png" alt="" />
+        <img class="thumbsize" src="/assets/images/maze.png" alt="" />
       </a>
       <p>I'm some text</p>
     </div>

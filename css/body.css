@@ -116,6 +116,10 @@ a.post-read-more {
   margin-bottom: 1pc;
 }
 
+img.thumbsize {
+    width: 150px;
+}
+
 @media (max-width: 768px) {
   body { 
     background: none; 
