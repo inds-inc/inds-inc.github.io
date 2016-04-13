@@ -12,27 +12,31 @@ layout: default
 ### SEND Explorer
 
 <div>
- <div class="pure-g">
-    <div class="pure-u-1-3">
+  <div class="pure-g">
+    <div class="pure-u-1-2">
       <a href="/assets/images/maze.png" 
          data-lightbox="image-1" 
-         data-title="My caption">
         <img class="thumbsize" src="/assets/images/maze.png" alt="" />
       </a>
       <p>I'm some text</p>
     </div>
-    <div class="pure-u-1-3">
+    <div class="pure-u-1-2">
       <a href="/assets/images/maze.png" 
          data-lightbox="image-2" 
-         data-title="My caption">
         <img class="thumbsize" src="/assets/images/maze.png" alt="" />
       </a>
       <p>I'm some text</p>
     </div>
-    <div class="pure-u-1-3">
+    <div class="pure-u-1-2">
       <a href="/assets/images/maze.png" 
          data-lightbox="image-3" 
-         data-title="My caption">
+        <img class="thumbsize" src="/assets/images/maze.png" alt="" />
+      </a>
+      <p>I'm some text</p>
+    </div>
+    <div class="pure-u-1-2">
+      <a href="/assets/images/maze.png" 
+         data-lightbox="image-4" 
         <img class="thumbsize" src="/assets/images/maze.png" alt="" />
       </a>
       <p>I'm some text</p>
