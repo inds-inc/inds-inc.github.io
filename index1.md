@@ -13,7 +13,7 @@ layout: default
 
 <div>
  <div class="pure-g">
-    <div class="pure-u-1-3"><p>Thirds</p>
+    <div class="pure-u-1-3">
       <a href="/assets/images/maze.png" 
          data-lightbox="image-1" 
          data-title="My caption">Image #1
