@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div style="text-align:center">
-  <img src="/assets/images/se-small.jpg" alt="Send Explorer Logo />
+  <img src="/assets/images/se-small.jpg" alt="Send Explorer Logo">
   <h3>Single Study Visualizations</h3>
 </div>
 
@@ -44,7 +44,7 @@ layout: default
 </div>
 
 <div style="text-align:center">
-  <img src="/assets/images/se-plus-small.jpg" alt="Send Explorer Logo />
+  <img src="/assets/images/se-plus-small.jpg" alt="Send Explorer Plus Logo">
   <h3>Multi-Study Visualizations</h3>
 </div>
 
