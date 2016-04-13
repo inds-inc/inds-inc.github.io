@@ -46,7 +46,7 @@ layout: default
   </div>
 </div>
 
-------------------------------------------------------------------------
+<p>&nbsp;</p>
 
 <div style="text-align:center">
   <img src="/assets/images/se-plus-small.jpg" style="margin-bottom: -1em" alt="Send Explorer Plus Logo">
@@ -75,7 +75,7 @@ layout: default
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide7.PNG" 
        data-lightbox="slide-7"
-       data-title="<a href=https://www.youtube.com/watch?v=UIXnvctzGw8>video</a>"> 
+       data-title="<a href=https://www.youtube.com/watch?v=UIXnvctzGw8>YouTube video show Muti-Study Histopathology Treemap in action</a>"> 
       <img class="thumbsize" src="/assets/se-images/Slide7.PNG" alt="" />
     </a>
     <p class="thumbtitle">Histopathology Treemap</p>
@@ -91,7 +91,7 @@ layout: default
   </div>
 </div>
 
-------------------------------------------------------------------------
+<p>&nbsp;</p>
 
 ### The INDS Advantage
 
