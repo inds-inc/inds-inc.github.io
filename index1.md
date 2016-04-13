@@ -27,6 +27,8 @@ layout: default
       </a>
       <p>I'm some text</p>
     </div>
+ </div>
+ <div class="pure-g">
     <div class="pure-u-1-2">
       <a href="/assets/images/maze.png" 
          data-lightbox="image-3" 
