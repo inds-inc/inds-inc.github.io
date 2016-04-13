@@ -46,6 +46,8 @@ layout: default
   </div>
 </div>
 
+------------------------------------------------------------------------
+
 <div style="text-align:center">
   <img src="/assets/images/se-plus-small.jpg" style="margin-bottom: -1em" alt="Send Explorer Plus Logo">
   <h3>Multi-Study Visualizations</h3>
@@ -73,7 +75,7 @@ layout: default
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide7.PNG" 
        data-lightbox="slide-7"
-       data-title="Histopathology Treemap"> 
+       data-title="<a href=https://www.youtube.com/watch?v=UIXnvctzGw8>video</a>"> 
       <img class="thumbsize" src="/assets/se-images/Slide7.PNG" alt="" />
     </a>
     <p class="thumbtitle">Histopathology Treemap</p>
