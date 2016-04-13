@@ -69,9 +69,9 @@ layout: default
     <p class="thumbsize">…to visualize relative prevalence of histopathology findings across studies.</p>
   </div>
   <div class="pure-u-1-2">
-    <a href="/assets/se-images/Slide8.PNG" 
+    <a href="/assets/se-images/under-construction.gif" 
        data-lightbox="slide-8"> 
-      <img class="thumbsize" src="/assets/se-images/Slide8.PNG" alt="" />
+      <img class="thumbsize" src="/assets/se-images/under-construction.gif" alt="" />
     </a>
     <p class="thumbtitle">Historical Control Distribution</p>
     <p class="thumbsize">…to reveal the distribution of selected control data across studies, stratified by fields of interest.</p>
