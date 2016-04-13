@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div style="text-align:center">
-  <img src="/assets/images/se-small.jpg" alt="Send Explorer Logo">
+  <img src="/assets/images/se-small.jpg" style="margin-bottom: -1em" alt="Send Explorer Logo">
   <h3>Single Study Visualizations</h3>
 </div>
 
@@ -11,7 +11,7 @@ layout: default
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide2.PNG" 
        data-lightbox="slide-2"
-       data-lightbox-caption="Summary View for Numeric Data"> 
+       data-title="Summary View for Numeric Data"> 
       <img class="thumbsize" src="/assets/se-images/Slide2.PNG" alt="" />
     </a>
     <p class="thumbtitle">Summary View for Numeric Data</p>
@@ -19,7 +19,8 @@ layout: default
   </div>
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide3.PNG" 
-       data-lightbox="slide-3"> 
+       data-lightbox="slide-3"
+       data-title="Summary View Detail"> 
       <img class="thumbsize" src="/assets/se-images/Slide3.PNG" alt="" />
     </a>
     <p class="thumbtitle">Summary View Detail</p>
@@ -27,7 +28,8 @@ layout: default
   </div>
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide1.PNG" 
-       data-lightbox="slide-1"> 
+       data-lightbox="slide-1"
+       data-title="Severity Heatmap"> 
       <img class="thumbsize" src="/assets/se-images/Slide1.PNG" alt="" />
     </a>
     <p class="thumbtitle">Severity Heatmap</p>
@@ -35,7 +37,8 @@ layout: default
   </div>
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide4.PNG" 
-       data-lightbox="slide-4"> 
+       data-lightbox="slide-4"
+       data-title="Cross-Domain Subject View"> 
       <img class="thumbsize" src="/assets/se-images/Slide4.PNG" alt="" />
     </a>
     <p class="thumbtitle">Cross-Domain Subject View</p>
@@ -44,14 +47,15 @@ layout: default
 </div>
 
 <div style="text-align:center">
-  <img src="/assets/images/se-plus-small.jpg" alt="Send Explorer Plus Logo">
+  <img src="/assets/images/se-plus-small.jpg" style="margin-bottom: -1em" alt="Send Explorer Plus Logo">
   <h3>Multi-Study Visualizations</h3>
 </div>
 
 <div class="pure-g">
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide5.PNG" 
-       data-lightbox="slide-5"> 
+       data-lightbox="slide-5"
+       data-title="Correlations Matrix"> 
       <img class="thumbsize" src="/assets/se-images/Slide5.PNG" alt="" />
     </a>
     <p class="thumbtitle">Correlations Matrix</p>
@@ -59,7 +63,8 @@ layout: default
   </div>
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide6.PNG" 
-       data-lightbox="slide-6"> 
+       data-lightbox="slide-6"
+       data-title="Multi-Study Timecourse Grid"> 
       <img class="thumbsize" src="/assets/se-images/Slide6.PNG" alt="" />
     </a>
     <p class="thumbtitle">Multi-Study Timecourse Grid</p>
@@ -67,7 +72,8 @@ layout: default
   </div>
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide7.PNG" 
-       data-lightbox="slide-7"> 
+       data-lightbox="slide-7"
+       data-title="Histopathology Treemap"> 
       <img class="thumbsize" src="/assets/se-images/Slide7.PNG" alt="" />
     </a>
     <p class="thumbtitle">Histopathology Treemap</p>
