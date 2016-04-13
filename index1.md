@@ -2,9 +2,10 @@
 layout: default
 ---
 
-![Send Explorer Logo](/assets/images/se-small.jpg)
-
-### Single Study Visualizations
+<div style="text-align:center">
+  <img src="/assets/images/se-small.jpg" alt="Send Explorer Logo />
+  <h3>Single Study Visualizations</h3>
+</div>
 
 <div class="pure-g">
   <div class="pure-u-1-2">
@@ -42,9 +43,10 @@ layout: default
   </div>
 </div>
 
-![Send Explorer Logo](/assets/images/se-plus-small.jpg)
-
-### Multi-Study Visualizations
+<div style="text-align:center">
+  <img src="/assets/images/se-plus-small.jpg" alt="Send Explorer Logo />
+  <h3>Multi-Study Visualizations</h3>
+</div>
 
 <div class="pure-g">
   <div class="pure-u-1-2">
