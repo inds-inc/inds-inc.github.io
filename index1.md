@@ -9,36 +9,35 @@ layout: default
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide3.PNG" 
        data-lightbox="slide-3"
-       data-caption="Severity Heat Map"> 
+       data-lightbox-caption="Summary View for Numeric Data"> 
       <img class="thumbsize" src="/assets/se-images/Slide3.PNG" alt="" />
     </a>
-    <p class="thumbtitle">Severity Heat Map</p>
-    <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
-    <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
+    <p class="thumbtitle">Summary View for Numeric Data</p>
+    <p class="thumbsize">…to visualize patterns and trends in numeric data with summary statistics, scatterplot, out of concurrent control range indicator, and % control mean calculations</p>
   </div>
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide1.PNG" 
        data-lightbox="slide-1"> 
       <img class="thumbsize" src="/assets/se-images/Slide1.PNG" alt="" />
     </a>
-    <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
-    <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
+    <p class="thumbtitle">Summary View for Numeric Data</p>
+    <p class="thumbsize">…to review thumbnail visualizations or display detailed view showing distribution of subject data across groups</p>
   </div>
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide2.PNG" 
        data-lightbox="slide-2"> 
       <img class="thumbsize" src="/assets/se-images/Slide2.PNG" alt="" />
     </a>
-    <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
-    <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
+    <p class="thumbtitle">Severity Heatmap</p>
+    <p class="thumbsize">…to visualize patterns and trends in both incidence and severity</p>
   </div>
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide4.PNG" 
        data-lightbox="slide-4"> 
       <img class="thumbsize" src="/assets/se-images/Slide4.PNG" alt="" />
     </a>
-    <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
-    <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
+    <p class="thumbtitle">Cross-Domain Subject View</p>
+    <p class="thumbsize">…to put a subject’s data into perspective as compared to its own group and control group, on a single day or over time</p>
   </div>
 </div>
 
@@ -50,23 +49,32 @@ layout: default
        data-lightbox="slide-5"> 
       <img class="thumbsize" src="/assets/se-images/Slide5.PNG" alt="" />
     </a>
-    <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
+    <p class="thumbtitle">Correlations Matrix</p>
+    <p class="thumbsize">…to reveal pairwise correlations of endpoints for selected subjects, identifying those with histopathology findings in tissues of interest.</p>
   </div>
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide6.PNG" 
        data-lightbox="slide-6"> 
       <img class="thumbsize" src="/assets/se-images/Slide6.PNG" alt="" />
     </a>
-    <p class="thumbsize">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
+    <p class="thumbtitle">Multi-Study Timecourse Grid</p>
+    <p class="thumbsize">…to compare the timecourse pattern of selected endpoint(s) across studies of interest.</p>
   </div>
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide7.PNG" 
        data-lightbox="slide-7"> 
       <img class="thumbsize" src="/assets/se-images/Slide7.PNG" alt="" />
     </a>
-    <p class="thumbsize">I'm some text</p>
+    <p class="thumbtitle">Histopathology Treemap</p>
+    <p class="thumbsize">…to visualize relative prevalence of histopathology findings across studies.</p>
+  </div>
+  <div class="pure-u-1-2">
+    <a href="/assets/se-images/Slide8.PNG" 
+       data-lightbox="slide-8"> 
+      <img class="thumbsize" src="/assets/se-images/Slide8.PNG" alt="" />
+    </a>
+    <p class="thumbtitle">Historical Control Distribution</p>
+    <p class="thumbsize">…to reveal the distribution of selected control data across studies, stratified by fields of interest.</p>
   </div>
 </div>
 
