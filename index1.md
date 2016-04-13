@@ -7,29 +7,29 @@ layout: default
 
 <div class="pure-g">
   <div class="pure-u-1-2">
-    <a href="/assets/se-images/Slide3.PNG" 
-       data-lightbox="slide-3"> 
-      <img class="thumbsize" src="/assets/se-images/Slide3.PNG" alt="" />
-    </a>
-    <p class="thumbtitle">Severity Heatmap</p>
-    <p class="thumbsize">…to visualize patterns and trends in both incidence and severity</p>
-  </div>
-  <div class="pure-u-1-2">
-    <a href="/assets/se-images/Slide1.PNG" 
-       data-lightbox="slide-1"
+    <a href="/assets/se-images/Slide2.PNG" 
+       data-lightbox="slide-2"
        data-lightbox-caption="Summary View for Numeric Data"> 
-      <img class="thumbsize" src="/assets/se-images/Slide1.PNG" alt="" />
+      <img class="thumbsize" src="/assets/se-images/Slide2.PNG" alt="" />
     </a>
     <p class="thumbtitle">Summary View for Numeric Data</p>
     <p class="thumbsize">…to visualize patterns and trends in numeric data with summary statistics, scatterplot, out of concurrent control range indicator, and % control mean calculations</p>
   </div>
   <div class="pure-u-1-2">
-    <a href="/assets/se-images/Slide2.PNG" 
-       data-lightbox="slide-2"> 
-      <img class="thumbsize" src="/assets/se-images/Slide2.PNG" alt="" />
+    <a href="/assets/se-images/Slide3.PNG" 
+       data-lightbox="slide-3"> 
+      <img class="thumbsize" src="/assets/se-images/Slide3.PNG" alt="" />
     </a>
     <p class="thumbtitle">Summary View Detail</p>
     <p class="thumbsize">…to review thumbnail visualizations or display detailed view showing distribution of subject data across groups</p>
+  </div>
+  <div class="pure-u-1-2">
+    <a href="/assets/se-images/Slide1.PNG" 
+       data-lightbox="slide-1"> 
+      <img class="thumbsize" src="/assets/se-images/Slide1.PNG" alt="" />
+    </a>
+    <p class="thumbtitle">Severity Heatmap</p>
+    <p class="thumbsize">…to visualize patterns and trends in both incidence and severity</p>
   </div>
   <div class="pure-u-1-2">
     <a href="/assets/se-images/Slide4.PNG" 
