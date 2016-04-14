@@ -13,11 +13,13 @@ layout: default
 
 ---
 
-### SEND Explorer Product Family 4.0 Released!
+<div style="text-align:center">
+  <h3>SEND Explorer Product Family 4.0 Released!</h3>
 
-![se-logos.jpg](./assets/images/se-logos.jpg)
-
-Click here for [details](http://inds-inc.com/sendexplorer) - and sample visualizations.
+  <img src="./assets/images/se-logos.jpg" alt="">
+  <br>
+  Click <a href="http://inds-inc.com/sendexplorer">here</a> for details - and sample visualizations.
+</div>
 
 ---
 
