@@ -11,9 +11,11 @@ layout: default
 
 ### SEND Explorer Product Family 4.0 Released!
 
+![se-logos.jpg](./assets/images/se-logos.jpg)
+
 Click here for [details](http://inds-inc.com/sendexplorer) - and sample visualizations.
 
-![se-logos.jpg](./assets/images/se-logos.jpg)
+---
 
 Nonclinical aspects of drug development can be particularly challenging,
 especially if you're going it alone. You need broad-based toxicology expertise
