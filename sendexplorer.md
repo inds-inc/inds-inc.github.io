@@ -87,29 +87,7 @@ layout: default
   </div>
 </div>
 <p>&nbsp;</p>
-Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is
-pleased to announce the release of **SEND Explorer<sup>®</sup> Product
-Family v4.0**.  These validated, web-based applications were designed by
-scientists to provide advanced viewing, data summarization, and
-visualization capabilities for study data produced in SEND (Standard for
-Exchange of Nonclinical Data) format.  
 
-New features for v4.0 include the following:
-
--   Data Warehouse infrastructure with advanced data administration
-    capabilities including term reconciliation, scheduled or on-demand
-    data loads, and ability to load data from continually-updated
-    sources
-
--   Enhancements to the Multi-Study Correlations matrix to permit legend
-    groups to be shown or hidden, to display histopathology findings for
-    selected subjects, and to drill-down to individual subject data
-
--   Enhanced Summary View to display %Change from Control Group mean
-
--   A Multi-Study Histopathology Treemap visualization to identify and
-    communicate patterns and trends in histopathology data across
-    studies
 
 Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is
 pleased to announce the release of **SEND Explorer<sup>®</sup> Product
