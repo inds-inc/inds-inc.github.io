@@ -94,7 +94,7 @@ layout: default
 <p>&nbsp;</p>
 
 Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is
-pleased to announce the release of **SEND Explorer® Product Family
+pleased to announce the release of **SEND Explorer<sup>®</sup> Product Family
 v4.0**.  These validated, web-based applications were designed by
 scientists to provide advanced viewing, data summarization, and
 visualization capabilities for study data produced in SEND (Standard for
@@ -118,7 +118,7 @@ New features for v4.0 include the following:
     studies
 
 Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is
-pleased to announce the release of **SEND Explorer® Product
+pleased to announce the release of **SEND Explorer<sup>®</sup> Product
 Family v4.1**.  These validated, web-based applications were designed by
 scientists to provide advanced viewing, data summarization, and
 visualization capabilities for study data produced in SEND (Standard for
@@ -142,24 +142,24 @@ New features for the v4.1 release include the following:
 -   Modifications to improve system performance for very large
     (e.g., carcinogenicity) studies
 
-**SEND Explorer® Product Family v4.1** provides a scalable solution to
+**SEND Explorer<sup>®</sup> Product Family v4.1** provides a scalable solution to
 allow your organization to leverage its investment in SEND data. **SEND
-Explorer®** provides single-study functionality including the ability to
+Explorer<sup>®</sup>** provides single-study functionality including the ability to
 review/QC SEND datasets prior to submission to FDA, generate group
 summarizations with scientifically-relevant visualizations to identify
 trends and patterns within a study, and review all data for a single
 subject to compare vs other subjects in its group or vs control
 subjects, to identify patterns within or across data types, at a given
-timepoint and over time. **SEND Explorer® Plus** includes a database to
+timepoint and over time. **SEND Explorer<sup>®</sup> Plus** includes a database to
 extend SEND Explorer functionality to the multi-study environment and
 provides powerful yet intuitive cross-study querying capabilities and
-multi-study visualizations. **SEND Explorer® Warehouse** provides a data
+multi-study visualizations. **SEND Explorer<sup>®</sup> Warehouse** provides a data
 warehouse infrastructure that will enable your organization to combine
 legacy/non-SEND data sources with your SEND data, to perform advanced
 term reconciliation functionality, or to refresh internal data sources
 on a schedule.
 
-**SEND Explorer®<** features include:
+**SEND Explorer<sup>®</sup><** features include:
 
 -   A robust data grid that merges subject and group metadata with
     associated results
@@ -185,7 +185,7 @@ on a schedule.
 -   Hyperlink to multi-domain subject view with tabular and graphical
     displays of data
 
-**SEND Explorer® Plus** includes all of the above features as
+**SEND Explorer<sup>®</sup> Plus** includes all of the above features as
 well as:
 
 -   Straight-forward load interface and study dashboard
@@ -206,7 +206,7 @@ well as:
     communication of patterns in histopathology findings.
 
 **  
-SEND Explorer® Warehouse** includes all of the above features
+SEND Explorer<sup>®</sup> Warehouse** includes all of the above features
 as well as:
 
 -   Administrative tool to allow term reconciliation, to view/modify
@@ -224,7 +224,7 @@ as well as:
 
 -   Ability to load data on-demand or according to a specified schedule
 
-Products in the **SEND Explorer® Product Family v4.1** are now available
+Products in the **SEND Explorer<sup>®</sup> Product Family v4.1** are now available
 for purchase. INDS has recently partnered with Instem for sales and
 support services. Please contact INDS at <sendexperts@inds-inc.com> or
 Instem at <submit@instem.com> for more information on any of these tools
