@@ -200,8 +200,7 @@ well as:
 -   Multi-study Treemap visualization facilitating recognition and
     communication of patterns in histopathology findings.
 
-\*\*  
-SEND Explorer<sup>®</sup> Warehouse\*\* includes all of the above
+**SEND Explorer<sup>®</sup> Warehouse** includes all of the above
 features as well as:
 
 -   Administrative tool to allow term reconciliation, to view/modify
