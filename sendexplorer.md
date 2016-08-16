@@ -87,8 +87,6 @@ layout: default
   </div>
 </div>
 <p>&nbsp;</p>
-
-
 Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is
 pleased to announce the release of **SEND Explorer<sup>®</sup> Product
 Family v4.1**.  These validated, web-based applications were designed by
@@ -116,17 +114,22 @@ New features for the v4.1 release include the following:
 
 **SEND Explorer<sup>®</sup> Product Family v4.1** provides a scalable
 solution to allow your organization to leverage its investment in SEND
-data. **SEND Explorer<sup>®</sup>** provides single-study functionality
+data.
+
+**SEND Explorer<sup>®</sup>** provides single-study functionality
 including the ability to review/QC SEND datasets prior to submission to
 FDA, generate group summarizations with scientifically-relevant
 visualizations to identify trends and patterns within a study, and
 review all data for a single subject to compare vs other subjects in its
 group or vs control subjects, to identify patterns within or across data
-types, at a given timepoint and over time. **SEND Explorer<sup>®</sup>
-Plus** includes a database to extend SEND Explorer functionality to the
-multi-study environment and provides powerful yet intuitive cross-study
-querying capabilities and multi-study visualizations. **SEND
-Explorer<sup>®</sup> Warehouse** provides a data warehouse
+types, at a given timepoint and over time.
+
+**SEND Explorer<sup>®</sup> Plus** includes a database to extend SEND
+Explorer functionality to the multi-study environment and provides
+powerful yet intuitive cross-study querying capabilities and multi-study
+visualizations.
+
+**SEND Explorer<sup>®</sup> Warehouse** provides a data warehouse
 infrastructure that will enable your organization to combine
 legacy/non-SEND data sources with your SEND data, to perform advanced
 term reconciliation functionality, or to refresh internal data sources
