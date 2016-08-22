@@ -14,8 +14,9 @@ author:           INDS Inc.
 
 author:
   name:           INDS Inc.
+  location:       "Ann Arbor, MI  USA""
   email:          joyce.zandee@inds-inc.com
-  url:            https://twitter.com/INDSinc
+  twitter:        INDSinc
 
 twitter:
   username:       INDSinc
