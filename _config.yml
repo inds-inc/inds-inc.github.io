@@ -2,9 +2,9 @@
 permalink:        pretty
 
 # Setup
-title:            'INDS-Inc'
-tagline:          'Integrated Nonclinical Development Solutions, Inc.'
-description:      'Integrated Nonclinical Development Solutions, Inc. Creative and effective drug development/toxicology consultants & developers of SEND Explorer®'
+title:            INDS-Inc
+tagline:          Integrated Nonclinical Development Solutions, Inc.
+description:      Integrated Nonclinical Development Solutions, Inc. Creative and effective drug development/toxicology consultants & developers of SEND Explorer®
 url:              http://inds-inc.com
 baseurl:          '/'
 paginate:         10
@@ -13,9 +13,9 @@ logo:             /assets/images/inds_logo.png
 author:           INDS Inc.
 
 author:
-  name:           'INDS Inc.'
-  email:          'joyce.zandee@inds-inc.com'
-  url:            'https://twitter.com/INDSinc'
+  name:           INDS Inc.
+  email:          joyce.zandee@inds-inc.com
+  url:            https://twitter.com/INDSinc
 
 twitter:
   username:       INDSinc
