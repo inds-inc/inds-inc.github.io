@@ -1,5 +1,6 @@
 ---
 layout: default
+title:  'SEND Explorer'
 ---
 
 <div style="text-align:center">

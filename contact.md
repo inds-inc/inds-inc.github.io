@@ -1,5 +1,6 @@
 ---
 layout: default  
+title:  'Contact US'
 ...
 
 Contact US

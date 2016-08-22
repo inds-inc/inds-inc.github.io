@@ -1,25 +1,29 @@
-# Dependencies
-markdown:         kramdown
-
 # Permalinks
 permalink:        pretty
 
 # Setup
 title:            'INDS-Inc'
 tagline:          'Integrated Nonclinical Development Solutions, Inc.'
-description:      'W'
+description:      'Integrated Nonclinical Development Solutions, Inc. Creative and effective drug development/toxicology consultants & developers of SEND Explorer®'
 url:              http://inds-inc.com
 baseurl:          '/'
 paginate:         10
-paginate_path:    '/news/page:num/'
+paginate_path:    /news/page:num/
+logo:             /assets/images/inds_logo.png
+author:           INDS Inc.
 
 author:
-  name:           'Mike Ward'
-  email:          'mike.ward@inds-inc.com'
-  url:            'https://twitter.com/mikeward_aa'
+  name:           'INDS Inc.'
+  email:          'joyce.zandee@inds-inc.com'
+  url:            'https://twitter.com/INDSinc'
+
+twitter:
+  username:       INDSinc
 
 gems:
+  - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 
 version:          '1.0.0'
 

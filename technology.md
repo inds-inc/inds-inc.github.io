@@ -1,5 +1,6 @@
 ---
 layout: default
+title:  'Technology Services'
 ---
 
 Technology Services
