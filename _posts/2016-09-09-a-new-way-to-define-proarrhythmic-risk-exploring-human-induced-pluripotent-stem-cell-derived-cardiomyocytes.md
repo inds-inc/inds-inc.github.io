@@ -3,7 +3,7 @@ layout: post
 title:  A New Way to Define Proarrhythmic Risk? Exploring Human Induced Pluripotent Stem-Cell Derived Cardiomyocytes  
 ...
 
-by [Krista K Greenwood, PhD](http://inds-inc.com/about/#greenwood)
+by [Krista K Greenwood, PhD](http://inds-inc.com/about/#krista-k-greenwood-phd)
 
 Originally posted on [Society of Toxicology's Communiqué Blog](http://toxchange.toxicology.org/p/bl/et/blogid=9&blogaid=2006)
 
