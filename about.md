@@ -3,8 +3,8 @@ layout: default
 title:  About
 ---
 
-James R. Herman, PhD, DABT<a name="herman"/>
---------------------------------------------
+James R. Herman, PhD, DABT
+--------------------------
 
 ### Partner and President
 
@@ -26,8 +26,8 @@ reviewed over 100 nonclinical portions of IND and NDA submissions,
 including sections required for IBs and product labeling, and in
 addressing impurity issues.
 
-Joyce Zandee, MS<a name="zandee"/>
-----------------------------------
+Joyce Zandee, MS
+----------------
 
 ### Partner and Chief Operating Officer
 
@@ -62,8 +62,8 @@ every phase of systems life cycle development - from requirements
 gathering, to application development, to validation, testing, and
 implementation.
 
-Steven K. Duddy, PhD<a name="duddy"/>
--------------------------------------
+Steven K. Duddy, PhD
+--------------------
 
 ### Partner, Corporate Secretary, and Chief Scientific Officer
 
@@ -91,8 +91,8 @@ Science Center in Lake Placid, NY, and the Department of Pathology,
 University of North Carolina-Chapel Hill, before making the jump to
 pharmaceutical research.
 
-Marc B. Bailie, DVM, PhD<a name="bailie"/>
-------------------------------------------
+Marc B. Bailie, DVM, PhD
+------------------------
 
 ### Partner and Chief Development Officer
 
@@ -115,8 +115,8 @@ periodically on the Safety Pharmacology Society Board of Directors since
 its inception and has lead and/or participated in several expert working
 groups sponsored by ILSI/HESI.
 
-Joe Huetteman, BS<a name="huetteman"/>
---------------------------------------
+Joe Huetteman, BS
+-----------------
 
 ### Programmer and Chief Technical Officer
 
@@ -142,8 +142,8 @@ Engineering, Quality Institute at Saint Joseph Mercy Hospital, Ann Arbor
 and Manager, Corporate Network at STATPROBE Inc. Joe holds a bachelor of
 science degree in computer science from Eastern Michigan University.
 
-Mike Ward, BS<a name="ward"/>
------------------------------
+Mike Ward, BS
+-------------
 
 ### Senior Programmer
 
@@ -162,8 +162,8 @@ C\# and related technologies.
 
 Mike holds a bachelor of science degree from the University of Michigan.
 
-Krista K. Greenwood, PhD<a name="greenwood"/>
----------------------------------------------
+Krista K. Greenwood, PhD
+------------------------
 
 ### Associate Toxicology Consultant
 
