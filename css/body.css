@@ -28,6 +28,8 @@ ul, ol { margin-left: -1em; }
 a { color:#CC6714; text-decoration: none;	}
 a:hover {	color:#CC6714; background-color: #F5F5F5;	}
 
+p img:only-child { display: block; margin: 0 auto; }
+
 .navigation { margin-top: 1em; }
 
 .navigation a {
