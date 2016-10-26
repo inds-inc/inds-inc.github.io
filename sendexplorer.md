@@ -118,12 +118,12 @@ solution to allow your organization to leverage its investment in SEND
 data.
 
 **SEND Explorer<sup>®</sup>** provides single-study functionality
-including the ability to review/QC SEND datasets prior to submission to
-FDA, generate group summarizations with scientifically-relevant
-visualizations to identify trends and patterns within a study, and
-review all data for a single subject to compare vs other subjects in its
-group or vs control subjects, to identify patterns within or across data
-types, at a given timepoint and over time.
+including the ability to view and query SEND data, generate group
+summarizations with scientifically-relevant visualizations to identify
+trends and patterns within a study, and review all data for a single
+subject to compare vs other subjects in its group or vs control
+subjects, to identify patterns within or across data types, at a given
+timepoint and over time.
 
 **SEND Explorer<sup>®</sup> Plus** includes a database to extend SEND
 Explorer functionality to the multi-study environment and provides
