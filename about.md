@@ -179,3 +179,25 @@ of Wisconsin-Madison in the Department of Surgery where she was involved
 in the Islet Cell Transplant Research Program. She is new to nonclinical
 drug safety research and the pharmaceutical industry and is looking
 forward to bringing her expertise to this area of toxicology.
+
+Ashley R. Maiuri-McCord, PhD
+----------------------------
+
+### Associate Toxicology Consultant
+
+Ashley obtained a Ph.D. in Pharmacology and Toxicology from Michigan
+State University where she conducted research investigating mechanisms
+of idiosyncratic drug-induced liver injury. She has a B.S. in Ecology
+and Evolutionary Biology from the University of Michigan and spent two
+years working in an environmental toxicology laboratory in the School of
+Public health examining mercury exposure and neurochemical alterations
+in wildlife specimens.
+
+More recently, Ashley was a Postdoctoral Researcher at Indiana
+University and performed research to elucidate the mechanism by which
+oxidative DNA damage triggers epigenetic alterations using a mouse model
+of inflammation-driven colon tumorigenesis. She is excited about
+returning to the field of toxicology, specifically drug safety, and
+eager to apply the knowledge and skills she has gained during her Ph.D.
+and post-doctoral position at IU to solving toxicology-related issues
+faced during the drug development process.
