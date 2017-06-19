@@ -29,18 +29,18 @@ title:  'SEND Explorer'
   <div class="pure-u-1-2">
     <p class="thumbtitle">Line Graph</p>
     <a href="/assets/se-images/linegraph-slide.png" 
-       data-lightbox="slide-3"
+       data-lightbox="slide-9"
        data-title="Line Graph"> 
-      <img class="thumbsize" src="/assets/se-images/Slide3.PNG" alt="" />
+      <img class="thumbsize" src="/assets/se-images/linegraph.png" alt="" />
     </a>
     <p class="thumbsize">this space for rent</p>
   </div>  
   <div class="pure-u-1-2">
     <p class="thumbtitle">Clinical Observations Timecourse</p>
     <a href="/assets/se-images/clinobs-slide.png" 
-       data-lightbox="slide-3"
+       data-lightbox="slide-10"
        data-title="Clinical Observations Timecourse"> 
-      <img class="thumbsize" src="/assets/se-images/Slide3.PNG" alt="" />
+      <img class="thumbsize" src="/assets/se-images/clinobs-slide.png" alt="" />
     </a>
     <p class="thumbsize">this space for rent</p>
   </div>  
@@ -98,9 +98,9 @@ title:  'SEND Explorer'
   </div>
   <div class="pure-u-1-2">
     <p class="thumbtitle">Historical Control Distribution</p>
-    <a href="/assets/se-images/under-construction.gif" 
+    <a href="/assets/se-images/hcvd-slide.png" 
        data-lightbox="slide-8"> 
-      <img class="thumbsize" src="/assets/se-images/hcvd-slide" alt="" />
+      <img class="thumbsize" src="/assets/se-images/hcvd-slide.png" alt="" />
     </a>
     <p class="thumbsize">…to reveal the distribution of selected control data across studies, stratified by fields of interest.</p>
   </div>
