@@ -31,7 +31,7 @@ title:  'SEND Explorer'
     <a href="/assets/se-images/linegraph-slide.png" 
        data-lightbox="slide-9"
        data-title="Line Graph"> 
-      <img class="thumbsize" src="/assets/se-images/linegraph.png" alt="" />
+      <img class="thumbsize" src="/assets/se-images/linegraph-slide.png" alt="" />
     </a>
     <p class="thumbsize">this space for rent</p>
   </div>  
