@@ -14,7 +14,7 @@ layout: default
 ---
 
 <div style="text-align:center">
-  <h3>SEND Explorer Product Family 4.1 Released!</h3>
+  <h3>SEND Explorer Product Family 5.0 Released!</h3>
 
   <img src="/assets/images/se-logos.jpg" alt="">
   <br>

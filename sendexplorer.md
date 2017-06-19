@@ -27,6 +27,24 @@ title:  'SEND Explorer'
     <p class="thumbsize">…to review thumbnail visualizations or display detailed view showing distribution of subject data across groups</p>
   </div>
   <div class="pure-u-1-2">
+    <p class="thumbtitle">Line Graph</p>
+    <a href="/assets/se-images/linegraph-slide.png" 
+       data-lightbox="slide-3"
+       data-title="Line Graph"> 
+      <img class="thumbsize" src="/assets/se-images/Slide3.PNG" alt="" />
+    </a>
+    <p class="thumbsize">this space for rent</p>
+  </div>  
+  <div class="pure-u-1-2">
+    <p class="thumbtitle">Clinical Observations Timecourse</p>
+    <a href="/assets/se-images/clinobs-slide.png" 
+       data-lightbox="slide-3"
+       data-title="Clinical Observations Timecourse"> 
+      <img class="thumbsize" src="/assets/se-images/Slide3.PNG" alt="" />
+    </a>
+    <p class="thumbsize">this space for rent</p>
+  </div>  
+  <div class="pure-u-1-2">
     <p class="thumbtitle">Severity Heatmap</p>
     <a href="/assets/se-images/Slide1.PNG" 
        data-lightbox="slide-1"
@@ -82,7 +100,7 @@ title:  'SEND Explorer'
     <p class="thumbtitle">Historical Control Distribution</p>
     <a href="/assets/se-images/under-construction.gif" 
        data-lightbox="slide-8"> 
-      <img class="thumbsize" src="/assets/se-images/under-construction.gif" alt="" />
+      <img class="thumbsize" src="/assets/se-images/hcvd-slide" alt="" />
     </a>
     <p class="thumbsize">…to reveal the distribution of selected control data across studies, stratified by fields of interest.</p>
   </div>
@@ -90,12 +108,12 @@ title:  'SEND Explorer'
 <p>&nbsp;</p>
 Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is
 pleased to announce the release of **SEND Explorer<sup>®</sup> Product
-Family v4.1**.  These validated, web-based applications were designed by
+Family v5.0**.  These validated, web-based applications were designed by
 scientists to provide advanced viewing, data summarization, and
 visualization capabilities for study data produced in SEND (Standard for
 Exchange of Nonclinical Data) format.  
 
-New features for the v4.1 release include the following:
+New features for the v5.0 release include the following:
 
 -   Enhancements to Summary View giving user option to display group
     summary statistics with or without accompanying subject details.
@@ -113,7 +131,7 @@ New features for the v4.1 release include the following:
 -   Modifications to improve system performance for very large
     (e.g., carcinogenicity) studies
 
-**SEND Explorer<sup>®</sup> Product Family v4.1** provides a scalable
+**SEND Explorer<sup>®</sup> Product Family v5.0** provides a scalable
 solution to allow your organization to leverage its investment in SEND
 data.
 
@@ -200,7 +218,7 @@ features as well as:
 
 -   Ability to load data on-demand or according to a specified schedule
 
-Products in the **SEND Explorer<sup>®</sup> Product Family v4.1** are
+Products in the **SEND Explorer<sup>®</sup> Product Family v5.0** are
 now available for purchase. INDS has recently partnered with Instem for
 sales and support services. Please contact INDS at
 <sendexperts@inds-inc.com> or Instem at <submit@instem.com> for more
