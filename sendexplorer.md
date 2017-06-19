@@ -33,7 +33,7 @@ title:  'SEND Explorer'
        data-title="Line Graph"> 
       <img class="thumbsize" src="/assets/se-images/linegraph-slide.png" alt="" />
     </a>
-    <p class="thumbsize">this space for rent</p>
+    <p class="thumbsize">…to visualize patterns of numeric data over time</p>
   </div>  
   <div class="pure-u-1-2">
     <p class="thumbtitle">Clinical Observations Timecourse</p>
@@ -42,7 +42,7 @@ title:  'SEND Explorer'
        data-title="Clinical Observations Timecourse"> 
       <img class="thumbsize" src="/assets/se-images/clinobs-slide.png" alt="" />
     </a>
-    <p class="thumbsize">this space for rent</p>
+    <p class="thumbsize">...to identify dose-related patterns and trends in clinical observations over the course of a study</p>
   </div>  
   <div class="pure-u-1-2">
     <p class="thumbtitle">Severity Heatmap</p>
@@ -113,23 +113,17 @@ scientists to provide advanced viewing, data summarization, and
 visualization capabilities for study data produced in SEND (Standard for
 Exchange of Nonclinical Data) format.  
 
-New features for the v5.0 release include the following:
+Three new visualizations have been included in the V5.0 release:
 
--   Enhancements to Summary View giving user option to display group
-    summary statistics with or without accompanying subject details.
-    Group means outside of the range of concurrent control group
-    are flagged.
+- A new single-study line graph has been introduced for numeric timecourse data.
+  Group means are plotted by study day with the option to display error bars and 
+  drill down to view the individual subject that comprise the group mean.
 
--   Multiple improvements to the Subject View, including ability to
-    produce adjacent visualizations for male and female groups, enhanced
-    filtering capabilities and ability to select endpoints associated
-    with various Toxicity Profiles
+- A new single-study clinical observations timecourse visualization has been 
+  included which depicts the progression of clinical observations over time.  
 
--   Allow organizations to include their own branding of SEND Explorer
-    and specify their own Toxicity Profiles.
-
--   Modifications to improve system performance for very large
-    (e.g., carcinogenicity) studies
+= A new multi-study visualization has been included which displays the 
+  distribution of numeric historical control data.
 
 **SEND Explorer<sup>®</sup> Product Family v5.0** provides a scalable
 solution to allow your organization to leverage its investment in SEND
