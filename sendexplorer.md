@@ -122,7 +122,7 @@ Three new visualizations have been included in the V5.0 release:
 - A new single-study clinical observations timecourse visualization has been 
   included which depicts the progression of clinical observations over time.  
 
-= A new multi-study visualization has been included which displays the 
+- A new multi-study visualization has been included which displays the 
   distribution of numeric historical control data.
 
 **SEND Explorer<sup>®</sup> Product Family v5.0** provides a scalable
@@ -174,6 +174,10 @@ on a schedule.
 -   Hyperlink to multi-domain subject view with tabular and graphical
     displays of data
 
+-   Line Graph Visualization
+
+-   Clinical Observations Timecourse Visualization
+
 **SEND Explorer<sup>®</sup> Plus** includes all of the above features as
 well as:
 
@@ -193,6 +197,8 @@ well as:
 
 -   Multi-study Treemap visualization facilitating recognition and
     communication of patterns in histopathology findings.
+
+-   Multi-study Historical Control Value Distribution Visualization
 
 **SEND Explorer<sup>®</sup> Warehouse** includes all of the above
 features as well as:
