@@ -168,17 +168,20 @@ Krista K. Greenwood, PhD
 ### Associate Toxicology Consultant
 
 Krista has a PhD in Biochemistry & Molecular Biology and Toxicology from
-Michigan State University and a BS in Biology from the University of
-Wisconsin-Madison. She most recently finished a Postdoctoral appointment
-with The Dow Chemical Company in Midland, MI where she led a research
-program on the development of an in vivo rat model for the
-identification of low molecular weight respiratory sensitizers.
+Michigan State University where she characterized the role of Hypoxia
+Inducible Factor (HIF) 1/2&alpha; in the inflammatory response to inhaled
+allergens in a transgenic mouse model. She received her BS in Biology
+from the University of Wisconsin-Madison. Before joining INDS, she was a
+Postdoctoral Fellow with The Dow Chemical Company in Midland, MI where
+she led a research program on the development of an in vivo rat model
+for the identification of low molecular weight respiratory sensitizers.
 
 Krista has previous experience doing clinical research at the University
 of Wisconsin-Madison in the Department of Surgery where she was involved
-in the Islet Cell Transplant Research Program. She is new to nonclinical
-drug safety research and the pharmaceutical industry and is looking
-forward to bringing her expertise to this area of toxicology.
+in the Islet Cell Transplant Research Program. She has recently been
+nominated as a Councilor for the Michigan Regional Chapter of the
+Society of Toxicology and also serves on the Communications Committee
+for the American College of Toxicology.
 
 Ashley R. Maiuri-McCord, PhD
 ----------------------------
