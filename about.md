@@ -165,7 +165,7 @@ Mike holds a bachelor of science degree from the University of Michigan.
 Krista K. Greenwood, PhD
 ------------------------
 
-### Associate Toxicology Consultant
+### Toxicology Consultant
 
 Krista has a PhD in Biochemistry & Molecular Biology and Toxicology from
 Michigan State University where she characterized the role of Hypoxia
