@@ -169,7 +169,7 @@ Krista K. Greenwood, PhD
 
 Krista has a PhD in Biochemistry & Molecular Biology and Toxicology from
 Michigan State University where she characterized the role of Hypoxia
-Inducible Factor (HIF) 1/2&alpha; in the inflammatory response to inhaled
+Inducible Factor (HIF) 1/2α in the inflammatory response to inhaled
 allergens in a transgenic mouse model. She received her BS in Biology
 from the University of Wisconsin-Madison. Before joining INDS, she was a
 Postdoctoral Fellow with The Dow Chemical Company in Midland, MI where
@@ -204,3 +204,39 @@ returning to the field of toxicology, specifically drug safety, and
 eager to apply the knowledge and skills she has gained during her Ph.D.
 and post-doctoral position at IU to solving toxicology-related issues
 faced during the drug development process.
+
+Sylvia M. Furst, PhD
+--------------------
+
+### Associate Toxicology Consultant
+
+Sylvia has over 20 years of toxicology, metabolism and immunology
+experience having served as study director, study monitor, laboratory
+supervisor, head of general toxicology, project team representative, and
+therapeutic area leader. She has expertise across multiple therapeutic
+areas including immuno-inflammation, CNS and dermatology, supporting all
+stages of development from early discovery to post-approval.
+
+Prior to joining INDS, Sylvia supported drug development for leading
+pharmaceutical organizations including GlaxoSmithKline, Pfizer,
+Pharmacia and Boehringer-Ingelheim. In her role as Senior Scientific
+Director of Nonclinical Safety at GSK, she had oversight for all
+nonclinical safety assessment activities for the dermatological area
+with a portfolio of over 40 Rx/Cx products developed globally. She
+provided ongoing leadership and direction to a global team of project
+representatives and partnered closely with key internal stakeholders,
+including skin biology scientists, clinical pharmacologists, global
+chemists and regulatory teams. She also served as Head of General
+Toxicology for several years leading global toxicology operations
+overseeing a team of study directors, study monitors, technicians and
+support staff to ensure all active in house and contracted studies were
+conducted and completed on a timely basis and in full compliance with
+GLPs.
+
+She is a respected leader, manager, and mentor having built and
+developed high-performing, diverse teams including toxicologists,
+pathologists, animal technicians, and students.
+
+Her specialties include immunotoxicology, drug safety evaluation,
+pharmacokinetics/toxicokinetics, dermatology, animal model development,
+and integrated nonclinical regulatory submissions.
