@@ -208,7 +208,7 @@ faced during the drug development process.
 Sylvia M. Furst, PhD
 --------------------
 
-### Associate Toxicology Consultant
+### Toxicology Consultant
 
 Sylvia has over 20 years of toxicology, metabolism and immunology
 experience having served as study director, study monitor, laboratory
