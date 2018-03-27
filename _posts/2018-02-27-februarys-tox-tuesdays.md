@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:  "February's Tox Tuesday's"  
+title:  "Tox Tuesday's - February"  
 ...
 
 In case you missed them.
