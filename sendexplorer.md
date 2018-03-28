@@ -30,7 +30,7 @@ title:  'SEND Explorer'
     <p class="thumbtitle">Line Graph</p>
     <a href="/assets/se-images/linegraph-slide.png" 
        data-lightbox="slide-9"
-       data-title="Line Graph"> 
+       data-title="Multi Endpoint Line Graph"> 
       <img class="thumbsize" src="/assets/se-images/linegraph-slide.png" alt="" />
     </a>
     <p class="thumbsize">…to visualize patterns of numeric data over time</p>
@@ -60,7 +60,7 @@ title:  'SEND Explorer'
        data-title="Cross-Domain Subject View"> 
       <img class="thumbsize" src="/assets/se-images/Slide4.PNG" alt="" />
     </a>
-    <p class="thumbsize">…to put a subject’s data into perspective as compared to its own group and control group, on a single day or over time</p>
+    <p class="thumbsize">…to put a subject's data into perspective as compared to its own group and control group, on a single day or over time</p>
   </div>
 </div>
 <p>&nbsp;</p>
@@ -91,8 +91,8 @@ title:  'SEND Explorer'
     <p class="thumbtitle">Histopathology Treemap</p>
     <a href="/assets/se-images/Slide7.PNG" 
        data-lightbox="slide-7"
-       data-title="<a href=https://www.youtube.com/watch?v=UIXnvctzGw8>YouTube video show Muti-Study Histopathology Treemap in action</a>"> 
-      <img class="thumbsize" src="/assets/se-images/Slide7.PNG" alt="" />
+       data-title="Multi-Study Histo Barchart"> 
+      <img class="thumbsize" src="/assets/se-images/HistoBarChart.png" alt="" />
     </a>
     <p class="thumbsize">…to visualize relative prevalence of histopathology findings across studies.</p>
   </div>
@@ -107,48 +107,48 @@ title:  'SEND Explorer'
 </div>
 <p>&nbsp;</p>
 Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is
-pleased to announce the release of **SEND Explorer<sup>®</sup> Product
-Family v5.0**.  These validated, web-based applications were designed by
-scientists to provide advanced viewing, data summarization, and
-visualization capabilities for study data produced in SEND (Standard for
-Exchange of Nonclinical Data) format.  
+pleased to announce the release of SEND Explorer® Product Family v6.0.
+SEND Explorer®, SEND Explorer® Plus, and SEND Explorer® Warehouse are
+validated, web-based applications designed by scientists to provide
+advanced viewing, data summarization, and visualization capabilities for
+study data produced in SEND (Standard for Exchange of Nonclinical Data)
+format. SEND Explorer® Product Family v6.0 provides a scalable solution
+to allow your organization to leverage its investment in SEND data.
 
-Three new visualizations have been included in the V5.0 release:
+Single-study enhancements in SEND Explorer® v6.0 include the following:
 
-- A new single-study line graph has been introduced for numeric timecourse data.
-  Group means are plotted by study day with the option to display error bars and 
-  drill down to view the individual subject that comprise the group mean.
+-   Study Overview Page to give scientists the option to create/identify
+    Notes, Image files, Links, and “Endpoints of Interest” and share
+    them with other users
 
-- A new single-study clinical observations timecourse visualization has been 
-  included which depicts the progression of clinical observations over time.  
+-   Multi-Endpoint Line Graph to give scientists the opportunity to plot
+    one or more endpoints within or across domains on separate, adjacent
+    plots and the option to produce subplots by treatment, dose, or sex
 
-- A new multi-study visualization has been included which displays the 
-  distribution of numeric historical control data.
+-   Exposure Plot to help scientists assess correlation between a
+    selected exposure endpoint and a selected LB endpoint
 
-**SEND Explorer<sup>®</sup> Product Family v5.0** provides a scalable
-solution to allow your organization to leverage its investment in SEND
-data.
+-   Schedule View to produce a chronological summary of endpoints
+    collected across time
 
-**SEND Explorer<sup>®</sup>** provides single-study functionality
-including the ability to view and query SEND data, generate group
-summarizations with scientifically-relevant visualizations to identify
-trends and patterns within a study, and review all data for a single
-subject to compare vs other subjects in its group or vs control
-subjects, to identify patterns within or across data types, at a given
-timepoint and over time.
+-   Subject View enhancements allowing the scientist to see all
+    non-normal tissue findings for a given subject and the ability to
+    simultaneously include endpoints that were flagged as being of
+    interest in subject view
 
-**SEND Explorer<sup>®</sup> Plus** includes a database to extend SEND
-Explorer functionality to the multi-study environment and provides
-powerful yet intuitive cross-study querying capabilities and multi-study
-visualizations.
+-   Ability to capture ad hoc endpoints of interest from summary
+    displays and apply these endpoints to selected visualizations
 
-**SEND Explorer<sup>®</sup> Warehouse** provides a data warehouse
-infrastructure that will enable your organization to combine
-legacy/non-SEND data sources with your SEND data, to perform advanced
-term reconciliation functionality, or to refresh internal data sources
-on a schedule.
+Multi-Study enhancements include the following new visualizations:
 
-**SEND Explorer<sup>®</sup>** features include:
+-   Multi-Study Histopathology Bar Chart to reveal patterns and trends
+    in histopathology findings within and across studies
+
+-   Multi-Study Subject Compare View to allow scientists to display
+    selected endpoints from subjects of interest within or across
+    studies
+
+**SEND Explorer**® features include:
 
 -   A robust data grid that merges subject and group metadata with
     associated results
@@ -163,8 +163,14 @@ on a schedule.
 -   Group summary and incidence calculations based on a user-specified
     group definition
 
+-   Option to configure application to perform Dunnett's t-test for
+    pairwise comparison to concurrent controls\*
+
 -   Scientifically-relevant data visualizations including scatterplots
-    of subject data, group mean bar charts, and Severity Heatmaps™
+    of subject data, group mean bar charts, Multi-Endpoint\* Line Graph
+    with error bars, Clinical Observations Timecourse visualization,
+    Exposure Plot\*, Schedule View\*, cross-domain Subject View, and
+    Severity Heatmaps™
 
 -   Reference range highlighting and calculated %change from control
     group mean
@@ -174,38 +180,59 @@ on a schedule.
 -   Hyperlink to multi-domain subject view with tabular and graphical
     displays of data
 
--   Line Graph Visualization
+-   The ability to create and save report and visualization presets so
+    they can be recalled and subsequently applied to the same or any
+    other study\*  
+    \**Features new to Version 6.0*
 
--   Clinical Observations Timecourse Visualization
-
-**SEND Explorer<sup>®</sup> Plus** includes all of the above features as
-well as:
+**SEND Explorer**® **Plus** includes all of the above features as well
+as:
 
 -   Straight-forward load interface and study dashboard
 
 -   Fully-compliant SEND-based data model
 
--   Multi-study/multi-domain data query grid
+-   Study overview page containing a free-text field for capturing
+    scientific observations and notes, loaded image files, hyperlinks to
+    other documents or web-pages of interest, and a list of endpoints of
+    interest for sharing with others in your organization\*
 
--   Hyperlinked related records
+-   Ability for user to capture and retain endpoints of interest while
+    reviewing summary data\*
+
+-   Ability to apply ad hoc endpoints of interest en masse to selected
+    visualizations\*
+
+-   Multi-study/multi-domain data grid for querying across domains and
+    studies
 
 -   Multi-study Correlations Matrix visualization with tissue-finding
     indicators and drill-down to subject data
 
 -   Multi-study Timecourse Grid visualization permitting comparison of
-    endpoint across studies and over time
+    selected endpoint across studies and over time
 
--   Multi-study Treemap visualization facilitating recognition and
-    communication of patterns in histopathology findings.
+-   Multi-study Treemap visualization to identify relative prevalence of
+    Histopathology findings across studies weighted by any of a number
+    of severity-based weighting algorithms
 
--   Multi-study Historical Control Value Distribution Visualization
+-   Multi-Study Histopathology Barchart to facilitate recognition and
+    communication of patterns in histopathology findings\*
 
-**SEND Explorer<sup>®</sup> Warehouse** includes all of the above
-features as well as:
+-   Multi-Study Subject Compare chart providing side-by-side comparison
+    of subject findings from within or across studies\*
 
--   Administrative tool to allow term reconciliation, to view/modify
-    mapped terms, to specify unit transformations, and to identify
-    number of decimal places for display
+-   Multi-Study Historical Control Values Distribution visualization,
+    revealing the distribution of numeric endpoints in control subjects,
+    differentiable by sex, species, vehicle, test facility, supplier,
+    subject age, etc.  
+    \**Features new to Version 6.0*
+
+**SEND Explorer**® **Warehouse** includes all of the above features as
+well as:
+
+-   Web-based\* administrative interface for term reconciliation, to
+    view/modify mapped terms, and to specify unit transformations
 
 -   Ability to register new source systems and connectors to integrate
     legacy data
@@ -213,13 +240,17 @@ features as well as:
 -   Ability to load, reload, or delete individual domains or an entire
     study
 
+-   Ability to load non-SEND data via generic spreadsheet loader\*
+
 -   Ability to review load history and load history details to help
     identify and correct data errors
 
--   Ability to load data on-demand or according to a specified schedule
+-   Ability to load data on-demand or according to a specified
+    schedule  
+    \**Features new to Version 6.0*
 
-Products in the **SEND Explorer<sup>®</sup> Product Family v5.0** are
-now available for purchase. INDS has recently partnered with Instem for
-sales and support services. Please contact INDS at
-<sendexperts@inds-inc.com> or Instem at <submit@instem.com> for more
-information on any of these tools or to request a demo.
+Products in the SEND Explorer® Product Family v6.0 are now available for
+purchase. INDS has recently partnered with Instem for sales and support
+services. Please contact INDS at <sendexperts@inds-inc.com> or Instem at
+<submit@instem.com> for more information on any of these tools or to
+request a demo.
