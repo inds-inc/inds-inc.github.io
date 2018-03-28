@@ -28,10 +28,10 @@ title:  'SEND Explorer'
   </div>
   <div class="pure-u-1-2">
     <p class="thumbtitle">Line Graph</p>
-    <a href="/assets/se-images/linegraph-slide.png" 
+    <a href="/assets/se-images/multi-study-linegraph-slide.png" 
        data-lightbox="slide-9"
        data-title="Multi Endpoint Line Graph"> 
-      <img class="thumbsize" src="/assets/se-images/linegraph-slide.png" alt="" />
+      <img class="thumbsize" src="/assets/se-images/multi-study-linegraph-slide.png" alt="" />
     </a>
     <p class="thumbsize">…to visualize patterns of numeric data over time</p>
   </div>  
@@ -88,8 +88,8 @@ title:  'SEND Explorer'
     <p class="thumbsize">…to compare the timecourse pattern of selected endpoint(s) across studies of interest.</p>
   </div>
   <div class="pure-u-1-2">
-    <p class="thumbtitle">Histopathology Treemap</p>
-    <a href="/assets/se-images/Slide7.PNG" 
+    <p class="thumbtitle">Multi-Study Histopathology Barchart</p>
+    <a href="/assets/se-images/HistoBarChart.png" 
        data-lightbox="slide-7"
        data-title="Multi-Study Histo Barchart"> 
       <img class="thumbsize" src="/assets/se-images/HistoBarChart.png" alt="" />
