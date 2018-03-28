@@ -14,9 +14,9 @@ layout: default
 ---
 
 <div style="text-align:center">
-  <h3>SEND Explorer Product Family 5.0 Released!</h3>
+  <h3>SEND Explorer Product Family 6.0 Released!</h3>
 
-  <img src="/assets/images/se-logos.jpg" alt="">
+  <img src="/assets/images/sendexplorer-tablet.png" alt="">
   <br>
   Click <a href="http://inds-inc.com/sendexplorer">here</a> for details - and sample visualizations.
 </div>
