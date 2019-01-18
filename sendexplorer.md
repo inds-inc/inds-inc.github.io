@@ -107,150 +107,217 @@ title:  'SEND Explorer'
 </div>
 <p>&nbsp;</p>
 Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is
-pleased to announce the release of SEND Explorer® Product Family v6.0.
-SEND Explorer®, SEND Explorer® Plus, and SEND Explorer® Warehouse are
-validated, web-based applications designed by scientists to provide
-advanced viewing, data summarization, and visualization capabilities for
-study data produced in SEND (Standard for Exchange of Nonclinical Data)
-format. SEND Explorer® Product Family v6.0 provides a scalable solution
-to allow your organization to leverage its investment in SEND data.
+pleased to announce the release of **SEND Explorer® Product
+Family v7.0**, a validated, web-based application designed by scientists
+to provide advanced viewing, data summarization, and visualization
+capabilities for study data produced in SEND (Standard for Exchange of
+Nonclinical Data) 3.0 format or SEND 3.1 format. SEND Explorer Products
+allow organizations to leverage their investment in creating SEND
+datasets for regulatory submissions by making study data accessible to
+scientists.  
 
-Single-study enhancements in SEND Explorer® v6.0 include the following:
+**New features for the v7.0 release include the following:**
 
--   Study Overview Page to give scientists the option to create/identify
-    Notes, Image files, Links, and “Endpoints of Interest” and share
-    them with other users
+  - Multi-Endpoint Line Graph now provides option to produce subplots by
+    subject in addition to treatment, dose, or sex.
 
--   Multi-Endpoint Line Graph to give scientists the opportunity to plot
-    one or more endpoints within or across domains on separate, adjacent
-    plots and the option to produce subplots by treatment, dose, or sex
+  - Visualization of %change from baseline values in Summary View and
+    Multi-Endpoint Line Graph, where baseline is identified.
 
--   Exposure Plot to help scientists assess correlation between a
-    selected exposure endpoint and a selected LB endpoint
+  - Support of Cross-Over study design - multi-endpoint line graph,
+    summary view, and cross-over scatter visualizations.
 
--   Schedule View to produce a chronological summary of endpoints
-    collected across time
+  - User-requested enhancement to Exposure Plot to plot actual dose
+    level vs exposure
 
--   Subject View enhancements allowing the scientist to see all
-    non-normal tissue findings for a given subject and the ability to
-    simultaneously include endpoints that were flagged as being of
-    interest in subject view
+  - Update all Histopathology visualizations to accommodate modified
+    standard SEND terms for severity
 
--   Ability to capture ad hoc endpoints of interest from summary
-    displays and apply these endpoints to selected visualizations
+  - Interface for updating configuration settings
 
-Multi-Study enhancements include the following new visualizations:
+  - Mouse-over any excluded value (identified with greyed-out text) to
+    display reason for exclusion (if it exists)
 
--   Multi-Study Histopathology Bar Chart to reveal patterns and trends
-    in histopathology findings within and across studies
+  - Ability to create, save, and apply User Presets and Shared Presets.
 
--   Multi-Study Subject Compare View to allow scientists to display
-    selected endpoints from subjects of interest within or across
-    studies
+  - Ability to summarize and plot % change from baseline for any
+    endpoint where the baseline value has been flagged in SEND
 
-**SEND Explorer**® features include:
+  - Ability to embolden or suppress one or more lines in Multi-Endpoint
+    Line Graph: lines associate with either group means or individual
+    subject values
 
--   A robust data grid that merges subject and group metadata with
+  - Client-suggested usability improvements
+
+  - Ability to filter Summary View for endpoints meeting criteria of
+    interest
+
+  - Ability to navigate to a different subject in Subject View by
+    clicking on a plotted point in any visualization thumbnail
+
+  - Ability to collapse single-study histopathology findings across all
+    severities, to sort subjects by disposition day, or filter for
+    tissues of interest
+
+  - Ability automatically load data saved to a designated Watch Folder
+    location
+
+  - Ability to load non-SEND data as a primary or secondary source via
+    spreadsheet
+
+<span style="color:lightgreen;font-weight:bold">SEND Explorer</span> provides single-study functionality including the
+ability to review and query SEND data; generate scientifically-relevant
+visualizations to identify trends and patterns within a study; and
+review all data for a single subject to compare vs other subjects in its
+group or vs control subjects to identify patterns across endpoints of
+interest, at a given timepoint and over time.
+
+<span style="color:blue;font-weight:bold">SEND Explorer Plus<span> additionally includes a SEND-optimized database
+to extend SEND Explorer functionality to the multi-study environment and
+provides powerful yet intuitive cross-study querying capabilities and
+multi-study visualizations. The database version also allows users to
+save and reapply settings to the same or different studies, to display %
+change from baseline values, and identify and filter for endpoints of
+interest.
+
+**SEND Explorer Warehouse** provides the same visualization capabilities
+as SEND Explorer Plus and additionally includes a data warehouse
+infrastructure which enables organizations to combine legacy/non-SEND
+data sources with their SEND data, connect to non-SEND data sources,
+perform advanced term reconciliation functionality, and refresh internal
+data sources on a schedule.
+
+<span style="color:lightgreen;font-weight:bold">SEND Explorer</span> features include:
+
+  - A robust data grid that merges subject and group metadata with
     associated results
 
--   Advanced data management and query features such as column
+  - Advanced data management and query features such as column
     hiding/showing, sorting, and filtering
 
--   Ability to export all or filtered data to Excel
+  - Ability to export all or filtered data to CSV and open in Excel
 
--   Pivoting of data by timepoint, test code, and/or subject
+  - Ability to pivot data by timepoint, test code, and/or subject
 
--   Group summary and incidence calculations based on a user-specified
+  - Group summary and incidence calculations based on user-specified
     group definition
 
--   Option to configure application to perform Dunnett's t-test for
-    pairwise comparison to concurrent controls\*
+  - Option to configure application to perform Dunnett’s t-test for
+    pairwise comparison to concurrent controls
 
--   Scientifically-relevant data visualizations including scatterplots
-    of subject data, group mean bar charts, Multi-Endpoint\* Line Graph
-    with error bars, Clinical Observations Timecourse visualization,
-    Exposure Plot\*, Schedule View\*, cross-domain Subject View, and
-    Severity Heatmaps™
+  - Scientifically-relevant data visualizations including scatterplots
+    of subject data, group mean bar charts, Multi-Endpoint Line
+    Graph\*<sup>@\*</sup> with optional error bars (now supporting
+    cross-over study design\*), Clinical Observations Timecourse
+    visualization, Exposure Plot<sup>@\*</sup>, Schedule View,
+    cross-domain Subject View<sup>@\*</sup>, Severity
+    Heatmaps™<sup>@\*</sup>, and Cross-Over Scatter\*
 
--   Reference range highlighting and calculated %change from control
+  - Reference range highlighting and calculated %change from control
     group mean
 
--   Hyperlink to comments and supplemental qualifiers
+  - Ability to filter for endpoints based on statistical flags or
+    out-of-control-range criteria</sup>\*</sup>
 
--   Hyperlink to multi-domain subject view with tabular and graphical
+  - Hyperlink to comments and supplemental qualifiers
+
+  - Hyperlink to multi-domain Subject View with tabular and graphical
     displays of data
 
--   The ability to create and save report and visualization presets so
-    they can be recalled and subsequently applied to the same or any
-    other study\*  
-    \**Features new to Version 6.0*
+  - The ability to create and save report and visualization presets so
+    they can be recalled and subsequently applied to the same or similar
+    study using the same computer/browser
 
-**SEND Explorer**® **Plus** includes all of the above features as well
-as:
+  - Admin interface to system configuration file to facilitate
+    configuration changes\*
 
--   Straight-forward load interface and study dashboard
+  - Ability to customize Toxicity Profiles, update system options, add
+    organizational branding  
+    \* *New to v7.0; @ User-requested enhancements included
+    inv7.0*
 
--   Fully-compliant SEND-based data model
+<span style="color:blue;font-weight:bold">SEND Explorer Plus</span> includes all of the single-study features above as well as:
 
--   Study overview page containing a free-text field for capturing
-    scientific observations and notes, loaded image files, hyperlinks to
-    other documents or web-pages of interest, and a list of endpoints of
-    interest for sharing with others in your organization\*
+  - Straight-forward load interface and study dashboard for filtering
+    studies based on selected study metadata criteria
 
--   Ability for user to capture and retain endpoints of interest while
-    reviewing summary data\*
+  - Fully-compliant SEND-based data model
 
--   Ability to apply ad hoc endpoints of interest en masse to selected
-    visualizations\*
+  - Study Overview Page containing a free-text field for capturing
+    scientific observations and notes, displaying uploaded image files,
+    providing hyperlinks to other documents or web-pages of interest,
+    and including a list of endpoints of interest for sharing with
+    others in your organization
 
--   Multi-study/multi-domain data grid for querying across domains and
+  - Ability for user to capture and retain endpoints/tissues of interest
+    while reviewing summary data
+
+  - Ability to apply ad hoc endpoints of interest *en masse* to selected
+    visualizations
+
+  - Ability to display, summarize, and plot % change from baseline
+    measures in single-domain view, Summary View, and Multi-Endpoint
+    Line Graph\*
+
+  - Ability to filter Summary View, Multi-Endpoint Line Graph, Subject
+    View, and Severity Heatmaps™ for endpoints/tissues of interest\*
+
+  - Multi-study/multi-domain data grid for querying across domains and
     studies
 
--   Multi-study Correlations Matrix visualization with tissue-finding
+  - Multi-study Correlations Matrix visualization with tissue-finding
     indicators and drill-down to subject data
 
--   Multi-study Timecourse Grid visualization permitting comparison of
+  - Multi-study Timecourse Grid visualization permitting comparison of
     selected endpoint across studies and over time
 
--   Multi-study Treemap visualization to identify relative prevalence of
-    Histopathology findings across studies weighted by any of a number
-    of severity-based weighting algorithms
+  - Multi-Study Histopathology Barchart\*<sup>@</sup>\* to facilitate
+    recognition and communication of patterns in histopathology
+    findings, including incidence in historical controls
 
--   Multi-Study Histopathology Barchart to facilitate recognition and
-    communication of patterns in histopathology findings\*
+  - Multi-Study Subject Compare chart providing side-by-side comparison
+    of subject findings from within or across studies
 
--   Multi-Study Subject Compare chart providing side-by-side comparison
-    of subject findings from within or across studies\*
-
--   Multi-Study Historical Control Values Distribution visualization,
+  - Multi-Study Historical Control Values Distribution visualization,
     revealing the distribution of numeric endpoints in control subjects,
     differentiable by sex, species, vehicle, test facility, supplier,
-    subject age, etc.  
-    \**Features new to Version 6.0*
+    subject age, etc.
 
-**SEND Explorer**® **Warehouse** includes all of the above features as
-well as:
+  - The ability to create and save user-specific and shared
+    report/visualization presets so they can be recalled and
+    subsequently applied to the same or another study using any
+    computer/browser\*  
+    \* *New to v7.0; @ User-requested enhancements included in
+    v7.0*
 
--   Web-based\* administrative interface for term reconciliation, to
+**SEND Explorer Warehouse** includes all of the above features as well as:
+
+  - Web-based administrative interface for term reconciliation, to
     view/modify mapped terms, and to specify unit transformations
 
--   Ability to register new source systems and connectors to integrate
+  - Ability to register new source systems and connectors to integrate
     legacy data
 
--   Ability to load, reload, or delete individual domains or an entire
+  - Ability to load, reload, or delete individual domains or an entire
     study
 
--   Ability to load non-SEND data via generic spreadsheet loader\*
+  - Ability to load non-SEND data via generic spreadsheet loader for
+    primary sources
 
--   Ability to review load history and load history details to help
+  - Ability to load non-SEND data via generic spreadsheet loader for
+    secondary sources\*
+
+  - Ability to review load history and load history details to help
     identify and correct data errors
 
--   Ability to load data on-demand or according to a specified
-    schedule  
-    \**Features new to Version 6.0*
+  - Ability to load data on-demand or according to a specified schedule
 
-Products in the SEND Explorer® Product Family v6.0 are now available for
-purchase. INDS has recently partnered with Instem for sales and support
-services. Please contact INDS at <sendexperts@inds-inc.com> or Instem at
-<submit@instem.com> for more information on any of these tools or to
-request a demo.
+  - Ability to create source-specific Watch Folders for autoloading
+    files posted to the folders  
+    \**New to v7.0*
+
+Products in the **SEND Explorer® Product Family v7.0** are now available
+for purchase. INDS has partnered with Instem for global sales and
+support services. Please contact INDS at <sendexperts@inds-inc.com> or
+Instem at <submit@instem.com> for more information on any of these tools
+or to request a demo.
