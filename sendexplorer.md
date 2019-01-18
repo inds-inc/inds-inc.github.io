@@ -165,7 +165,7 @@ scientists.  
   - Ability to load non-SEND data as a primary or secondary source via
     spreadsheet
 
-<span style="color:limegreen;font-weight:bold">SEND Explorer</span> 
+<span style="color:limegreen;font-weight:bold">SEND Explorer<sup>®</sup></span> 
 provides single-study functionality including the
 ability to review and query SEND data; generate scientifically-relevant
 visualizations to identify trends and patterns within a study; and
@@ -173,7 +173,7 @@ review all data for a single subject to compare vs other subjects in its
 group or vs control subjects to identify patterns across endpoints of
 interest, at a given timepoint and over time.
 
-<span style="color:blue;font-weight:bold">SEND Explorer Plus</span> 
+<span style="color:blue;font-weight:bold">SEND Explorer<sup>®</sup> Plus</span> 
 additionally includes a SEND-optimized database
 to extend SEND Explorer functionality to the multi-study environment and
 provides powerful yet intuitive cross-study querying capabilities and
@@ -182,15 +182,15 @@ save and reapply settings to the same or different studies, to display %
 change from baseline values, and identify and filter for endpoints of
 interest.
 
-**SEND Explorer Warehouse** provides the same visualization capabilities
+**SEND Explorer<sup>®</sup> Warehouse** provides the same visualization capabilities
 as SEND Explorer Plus and additionally includes a data warehouse
 infrastructure which enables organizations to combine legacy/non-SEND
 data sources with their SEND data, connect to non-SEND data sources,
 perform advanced term reconciliation functionality, and refresh internal
 data sources on a schedule.
 
-<span style="color:limegreen;font-weight:bold">SEND Explorer</span> 
-features include:
+**<span style="color:limegreen">SEND Explorer<sup>®</sup></span> 
+features include:**
 
   - A robust data grid that merges subject and group metadata with
     associated results
@@ -239,8 +239,8 @@ features include:
     
 \* *New to v7.0; @ User-requested enhancements included inv7.0*
 
-<span style="color:blue;font-weight:bold">SEND Explorer Plus</span> 
-includes all of the single-study features above as well as:
+**<span style="color:blue">SEND Explorer<sup>®</sup> Plus</span> 
+includes all of the single-study features above as well as:**
 
   - Straight-forward load interface and study dashboard for filtering
     studies based on selected study metadata criteria
@@ -294,7 +294,7 @@ includes all of the single-study features above as well as:
     
 \* *New to v7.0; @ User-requested enhancements included in v7.0*
 
-**SEND Explorer Warehouse** includes all of the above features as well as:
+**SEND Explorer<sup>®</sup> Warehouse includes all of the above features as well as:**
 
   - Web-based administrative interface for term reconciliation, to
     view/modify mapped terms, and to specify unit transformations
