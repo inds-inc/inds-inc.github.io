@@ -165,14 +165,16 @@ scientists.  
   - Ability to load non-SEND data as a primary or secondary source via
     spreadsheet
 
-<span style="color:lightgreen;font-weight:bold">SEND Explorer</span> provides single-study functionality including the
+<span style="color:limegreen;font-weight:bold">SEND Explorer</span> 
+provides single-study functionality including the
 ability to review and query SEND data; generate scientifically-relevant
 visualizations to identify trends and patterns within a study; and
 review all data for a single subject to compare vs other subjects in its
 group or vs control subjects to identify patterns across endpoints of
 interest, at a given timepoint and over time.
 
-<span style="color:blue;font-weight:bold">SEND Explorer Plus</span> additionally includes a SEND-optimized database
+<span style="color:blue;font-weight:bold">SEND Explorer Plus</span> 
+additionally includes a SEND-optimized database
 to extend SEND Explorer functionality to the multi-study environment and
 provides powerful yet intuitive cross-study querying capabilities and
 multi-study visualizations. The database version also allows users to
@@ -187,7 +189,7 @@ data sources with their SEND data, connect to non-SEND data sources,
 perform advanced term reconciliation functionality, and refresh internal
 data sources on a schedule.
 
-<span style="color:lightgreen;font-weight:bold">SEND Explorer</span> 
+<span style="color:limegreen;font-weight:bold">SEND Explorer</span> 
 features include:
 
   - A robust data grid that merges subject and group metadata with
@@ -203,22 +205,22 @@ features include:
   - Group summary and incidence calculations based on user-specified
     group definition
 
-  - Option to configure application to perform Dunnett’s t-test for
+  - Option to configure application to perform Dunnett's t-test for
     pairwise comparison to concurrent controls
 
   - Scientifically-relevant data visualizations including scatterplots
     of subject data, group mean bar charts, Multi-Endpoint Line
-    Graph\*<sup>@\*</sup> with optional error bars (now supporting
+    Graph<sup>@</sup>\* with optional error bars (now supporting
     cross-over study design\*), Clinical Observations Timecourse
-    visualization, Exposure Plot<sup>@\*</sup>, Schedule View,
-    cross-domain Subject View<sup>@\*</sup>, Severity
-    Heatmaps™<sup>@\*</sup>, and Cross-Over Scatter\*
+    visualization, Exposure Plot<sup>@</sup>\*, Schedule View,
+    cross-domain Subject View<sup>@</sup>\*, Severity
+    Heatmaps™<sup>@</sup>\*, and Cross-Over Scatter\*
 
   - Reference range highlighting and calculated %change from control
     group mean
 
   - Ability to filter for endpoints based on statistical flags or
-    out-of-control-range criteria</sup>\*</sup>
+    out-of-control-range criteria\*
 
   - Hyperlink to comments and supplemental qualifiers
 
