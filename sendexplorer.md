@@ -107,7 +107,7 @@ title:  'SEND Explorer'
 </div>
 <p>&nbsp;</p>
 Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is
-pleased to announce the release of **SEND Explorer® Product
+pleased to announce the release of **SEND Explorer<sup>®</sup> Product
 Family v7.0**, a validated, web-based application designed by scientists
 to provide advanced viewing, data summarization, and visualization
 capabilities for study data produced in SEND (Standard for Exchange of
@@ -275,7 +275,7 @@ includes all of the single-study features above as well as:
   - Multi-study Timecourse Grid visualization permitting comparison of
     selected endpoint across studies and over time
 
-  - Multi-Study Histopathology Barchart\*<sup>@</sup>\* to facilitate
+  - Multi-Study Histopathology Barchart<sup>@</sup>\* to facilitate
     recognition and communication of patterns in histopathology
     findings, including incidence in historical controls
 
@@ -321,7 +321,7 @@ includes all of the single-study features above as well as:
     
 \* *New to v7.0*
 
-Products in the **SEND Explorer® Product Family v7.0** are now available
+Products in the **SEND Explorer<sup>®</sup> Product Family v7.0** are now available
 for purchase. INDS has partnered with Instem for global sales and
 support services. Please contact INDS at <sendexperts@inds-inc.com> or
 Instem at <submit@instem.com> for more information on any of these tools
