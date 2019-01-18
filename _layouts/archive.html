@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <link rel="stylesheet" href="/css/pure-min.css">
+    <link rel="stylesheet" href="/lightbox/css/lightbox.min.css">
+    <link rel="stylesheet" href="/css/body.css">    
+    <link rel="Shortcut Icon" href="/assets/images/favicon.ico">
+	  {% feed_meta %}
+	  {% seo %}
+  </head>
+  
+  <body>
+    <div id="container">
+      <div id="header">
+        <img src="/assets/images/header.png" alt="Integrated Nonclinical Development Solutions" />
+      </div>
+      
+      <div id="title">
+        <img src="/assets/images/inds_logo.png" alt="INDS Logo" />&nbsp;&nbsp;
+        <span>Integrated Nonclinical Development Solutions, Inc.</span>
+      </div>
+        
+        <div class="pure-u-3-4">
+          <div class="column">
+            {{ content }}
+            </div>
+        </div>
+      <div id="footer">
+	      <p>
+          &copy; 2009-2018 <a href="/">INDS, Inc.</a> 
+          | 
+          Design by <a href="http://www.vcwebdesign.com">VC Web Design</a>
+        </p>
+      </div>  
+    </div>
+    <script src="/lightbox/js/lightbox-plus-jquery.min.js"></script>
+  </body>
+</html>
