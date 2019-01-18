@@ -10,3 +10,5 @@ title: Archive
 {% if month != nmonth %}<div>&nbsp;</div>{% endif %}
 <div>{{ post.date | date: "%F" }}&nbsp;&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></div>
 {% endfor %}
+
+[SEND Explorer<sup>®</sup> Version 6](/sendexplorer-v6)
