@@ -172,7 +172,7 @@ review all data for a single subject to compare vs other subjects in its
 group or vs control subjects to identify patterns across endpoints of
 interest, at a given timepoint and over time.
 
-<span style="color:blue;font-weight:bold">SEND Explorer Plus<span> additionally includes a SEND-optimized database
+<span style="color:blue;font-weight:bold">SEND Explorer Plus</span> additionally includes a SEND-optimized database
 to extend SEND Explorer functionality to the multi-study environment and
 provides powerful yet intuitive cross-study querying capabilities and
 multi-study visualizations. The database version also allows users to
@@ -187,7 +187,8 @@ data sources with their SEND data, connect to non-SEND data sources,
 perform advanced term reconciliation functionality, and refresh internal
 data sources on a schedule.
 
-<span style="color:lightgreen;font-weight:bold">SEND Explorer</span> features include:
+<span style="color:lightgreen;font-weight:bold">SEND Explorer</span> 
+features include:
 
   - A robust data grid that merges subject and group metadata with
     associated results
@@ -232,11 +233,12 @@ data sources on a schedule.
     configuration changes\*
 
   - Ability to customize Toxicity Profiles, update system options, add
-    organizational branding  
-    \* *New to v7.0; @ User-requested enhancements included
-    inv7.0*
+    organizational branding
+    
+\* *New to v7.0; @ User-requested enhancements included inv7.0*
 
-<span style="color:blue;font-weight:bold">SEND Explorer Plus</span> includes all of the single-study features above as well as:
+<span style="color:blue;font-weight:bold">SEND Explorer Plus</span> 
+includes all of the single-study features above as well as:
 
   - Straight-forward load interface and study dashboard for filtering
     studies based on selected study metadata criteria
@@ -286,9 +288,9 @@ data sources on a schedule.
   - The ability to create and save user-specific and shared
     report/visualization presets so they can be recalled and
     subsequently applied to the same or another study using any
-    computer/browser\*  
-    \* *New to v7.0; @ User-requested enhancements included in
-    v7.0*
+    computer/browser\*
+    
+\* *New to v7.0; @ User-requested enhancements included in v7.0*
 
 **SEND Explorer Warehouse** includes all of the above features as well as:
 
@@ -313,8 +315,9 @@ data sources on a schedule.
   - Ability to load data on-demand or according to a specified schedule
 
   - Ability to create source-specific Watch Folders for autoloading
-    files posted to the folders  
-    \**New to v7.0*
+    files posted to the folders
+    
+\* *New to v7.0*
 
 Products in the **SEND Explorer® Product Family v7.0** are now available
 for purchase. INDS has partnered with Instem for global sales and
