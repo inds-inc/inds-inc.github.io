@@ -4,7 +4,7 @@ title:  'SEND Explorer'
 ---
 
 <div style="text-align:center">
-   <p style="font-weight:bold; font-style:italic">Version 6 Archive<p>
+   <p style="font-weight:bold; font-style:italic">Version 6 Archive</p>
   <img src="/assets/images/se-small.jpg" style="margin-bottom: -1em" alt="Send Explorer Logo">
   <h3>Single Study Visualizations</h3>
 </div>
