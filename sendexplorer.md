@@ -236,7 +236,7 @@ cross-study reconciliation of terms.
 -   Ability to customize Toxicity Profiles, update system options, add
     organizational branding
 
-\*New to v9.0; @User-requested enhancements included in v9.0
+\*New to v9.0; <sup>@</sup>User-requested enhancements included in v9.0
     
 <span style="color:blue;font-weight:bold;text-decoration:underline">SEND Explorer Plus</span> includes all of the single-study features above as well as:
 
@@ -299,7 +299,7 @@ cross-study reconciliation of terms.
 -   Option to display data from most domains in CTD format
 -   Option to save data in XPT/CSV/XLS format\*  
 
-\*New to v9.0; @User-requested enhancements included in v9.0
+\*New to v9.0; <sup>@</sup>User-requested enhancements included in v9.0
 
 <span style="color:gold;font-weight:bold;text-decoration:underline">SEND Explorer Gold</span> includes all of the above features in SEND Explorer Plus as well as:
 
@@ -322,7 +322,7 @@ cross-study reconciliation of terms.
 -   Ability to create source-specific Watch Folders for autoloading
     files posted to the folders
     
-\* New to v9.0; @User-requested enhancements included in v9.0
+\* New to v9.0; <sup>@</sup>User-requested enhancements included in v9.0
 
 <span style="font-weight:bold;text-decoration:underline">SEND Explorer Warehouse</span> includes all of the above features as well as:
 
@@ -340,7 +340,7 @@ cross-study reconciliation of terms.
 -   Ability to align study subject numbers from two different sources
     that don’t use the same subject numbers for the same subjects
 
-\* New to v9.0; @User-requested enhancements included in v9.0
+\* New to v9.0; <sup>@</sup>User-requested enhancements included in v9.0
 
 See SEND Explorer Product Family v9.0 Release Notes for the complete set
 of requirements and bug fixes included in v9.0 as well as a cumulative
