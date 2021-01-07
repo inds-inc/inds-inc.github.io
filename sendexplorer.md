@@ -106,6 +106,7 @@ title:  'SEND Explorer'
   </div>
 </div>
 <p>&nbsp;</p>
+
 Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is
 pleased to announce the release of **SEND Explorer® Product Family
 v9.0**, a validated, web-based application designed by scientists to
@@ -115,8 +116,11 @@ Nonclinical Data) 3.0 format or SEND 3.1 format. SEND Explorer Products
 allow organizations to leverage their investment in creating SEND
 datasets for regulatory submissions by making study data accessible to
 scientists for decision-making.
+
 **New features for the v9.0 release include the following:**
-> Single-Study Enhancements
+
+<u>Single-Study Enhancements</u>
+
 -   Provide new navigation options in standard grid and summary views
 -   Ability to plot upper and lower reference range values as provided
     in SEND dataset on Summary by Timepoint thumbnail scatterplots
@@ -133,7 +137,9 @@ scientists for decision-making.
 -   Support for Custom domains (WH only)
 -   Option to display data from most domains in CTD format
 -   Option to save data in XPT/CSV/XLS format
-    Multi-Study Enhancements
+
+<u>Multi-Study Enhancements</u>
+
 -   Provide advanced (Boolean) querying functionality in Multi-Study
     Grid for Super Users, Data Stewards, and Administrators
 -   Support numerous additional filter fields in Multi-Study
@@ -151,42 +157,50 @@ scientists for decision-making.
     custom admin reports to Admin dashboard
 -   Performance improvements for multi-study grid and multi-study
     visualizations
-    Study Loading Improvements
+
+<u>Study Loading Improvements</u>
+
 -   Only newly uploaded or changed finding records are processed to
     minimize load time
 -   User-requested study loading efficiency improvements, including the
     ability to add/remove studies from the load queue via the Dashboard
-> **<span style="color:limegreen">SEND Explorer</span>** provides single-study functionality including the
-> ability to review and query SEND data; generate
-> scientifically-relevant visualizations to identify trends and patterns
-> within a study; and review all data for a single subject to compare vs
-> other subjects in its group or vs control subjects to identify
-> patterns across endpoints of interest, at a given timepoint and over
-> time.
->
-> **<span style="color:blue">SEND Explorer Plus</span>** additionally includes a SEND-optimized database
-> to extend SEND Explorer functionality to the multi-study environment
-> and provides powerful yet intuitive cross-study querying capabilities
-> and multi-study visualizations. SEND Explorer Plus also allows users
-> to save and reapply settings to the same or different studies, to
-> display % change from baseline values, and identify and filter for
-> endpoints of interest.
-> **SEND Explorer Warehouse** provides the same visualization
-> capabilities as SEND Explorer Plus and additionally includes a data
-> warehouse infrastructure which enables organizations to combine
-> legacy/non-SEND data sources with their SEND data, connect to non-SEND
-> data sources, support for custom domains, advanced term reconciliation
-> functionality, and refresh internal data sources on a schedule.
-> **<span style="color:gold">SEND Explorer Gold</span>** provides all of the functionality of SEND
-> Explorer Warehouse except for the ability to support custom domains,
-> reconcile terms, override data, or match subject numbers across
-> sources. As with SEND Explorer Warehouse, the data it consumes does
-> not need to be in SEND format so this product is a good fit for
-> organizations who want a direct connection to a data collection
-> system, non-SEND interim data, or a legacy format without the need for
-> cross-study reconciliation of terms.
+
+**<u><span style="color:limegreen">SEND Explorer</span></u>** provides single-study functionality including the
+ability to review and query SEND data; generate
+scientifically-relevant visualizations to identify trends and patterns
+within a study; and review all data for a single subject to compare vs
+other subjects in its group or vs control subjects to identify
+patterns across endpoints of interest, at a given timepoint and over
+time.
+
+**<u><span style="color:blue">SEND Explorer Plus</span></u>** additionally includes a SEND-optimized database
+to extend SEND Explorer functionality to the multi-study environment
+and provides powerful yet intuitive cross-study querying capabilities
+and multi-study visualizations. SEND Explorer Plus also allows users
+to save and reapply settings to the same or different studies, to
+display % change from baseline values, and identify and filter for
+endpoints of interest.
+
+**<u>SEND Explorer Warehouse</u>** provides the same visualization
+capabilities as SEND Explorer Plus and additionally includes a data
+warehouse infrastructure which enables organizations to combine
+legacy/non-SEND data sources with their SEND data, connect to non-SEND
+data sources, support for custom domains, advanced term reconciliation
+functionality, and refresh internal data sources on a schedule.
+
+**<u><span style="color:gold">SEND Explorer Gold</span></u>** provides all of the functionality of SEND
+Explorer Warehouse except for the ability to support custom domains,
+reconcile terms, override data, or match subject numbers across
+sources. As with SEND Explorer Warehouse, the data it consumes does
+not need to be in SEND format so this product is a good fit for
+organizations who want a direct connection to a data collection
+system, non-SEND interim data, or a legacy format without the need for
+cross-study reconciliation of terms.
+
 **SEND Explorer V9.0 Functionality, by Product**
-**<span style="color:limegreen">SEND Explorer</span>**® features include:
+
+<u><b><span style="color:limegreen">SEND Explorer</u></b>® features include:
+
 -   A robust data grid that merges subject and group metadata with
     associated results
 -   Advanced data management and query features such as column
@@ -221,9 +235,11 @@ scientists for decision-making.
     file, and review admin reports\*
 -   Ability to customize Toxicity Profiles, update system options, add
     organizational branding
-    <sup>\*</sup>New to v9.0; <sup>@</sup>User-requested enhancements included in v9.0*
-    **<span style="color:blue">SEND Explorer**® <span style="color:blue">**Plus</span>** includes all of the single-study
-    features above as well as:
+
+\*New to v9.0; @User-requested enhancements included in v9.0
+    
+**<u><span style="color:blue">SEND Explorer**® <span style="color:blue">**Plus</span></u>** includes all of the single-study features above as well as:
+
 -   Straight-forward load interface and study dashboard for filtering
     studies based on selected study metadata criteria
 -   Only newly uploaded or changed finding records are processed to
@@ -282,9 +298,11 @@ scientists for decision-making.
     any computer/browser
 -   Option to display data from most domains in CTD format
 -   Option to save data in XPT/CSV/XLS format\*  
-    <sup>\*</sup>New to v9.0; <sup>@</sup>User-requested enhancements included in v9.0*
-    **<span style="color:gold">SEND Explorer**® **<span style="color:gold">Gold</span>** includes all of the above features in
-    SEND Explorer Plus as well as:
+
+\*New to v9.0; @User-requested enhancements included in v9.0
+
+<u><b><span style="color:gold">SEND Explorer</span>® <span style="color:gold">Gold</span></b></u> includes all of the above features in SEND Explorer Plus as well as:
+
 -   Ability to specify SEND or non-SEND data source on upload of data
     file
 -   Ability to load/reload data directly from data collection
@@ -303,9 +321,11 @@ scientists for decision-making.
     including only on weekdays\*
 -   Ability to create source-specific Watch Folders for autoloading
     files posted to the folders
-    <sup>\*</sup>New to v9.0; <sup>@</sup>User-requested enhancements included in v9.0*
-    **SEND Explorer**® **Warehouse** includes all of the above features
-    as well as:
+    
+\* New to v9.0; @User-requested enhancements included in v9.0
+
+**SEND Explorer**® **Warehouse** includes all of the above features as well as:
+
 -   Web-based administrative interface for term reconciliation, to
     view/modify mapped terms, and to specify unit transformations
 -   Ability to register new source systems and connectors to integrate
@@ -319,7 +339,9 @@ scientists for decision-making.
 -   Ability to supply data overrides<sup>@</sup>, with audit log
 -   Ability to align study subject numbers from two different sources
     that don’t use the same subject numbers for the same subjects
-    <sup>\*</sup>New to v9.0; <sup>@</sup>User-requested enhancements included in v9.0*
+
+\* New to v9.0; @User-requested enhancements included in v9.0
+
 See SEND Explorer Product Family v9.0 Release Notes for the complete set
 of requirements and bug fixes included in v9.0 as well as a cumulative
 listing of usage notes and system/browser limitations.
