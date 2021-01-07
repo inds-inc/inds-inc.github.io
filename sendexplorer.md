@@ -345,6 +345,7 @@ cross-study reconciliation of terms.
 See SEND Explorer Product Family v9.0 Release Notes for the complete set
 of requirements and bug fixes included in v9.0 as well as a cumulative
 listing of usage notes and system/browser limitations.
+
 Products in the **SEND Explorer<sup>®</sup> Product Family v9.0** are now
 available for purchase. INDS has partnered with Instem for global sales
 and support services. Please contact INDS at
