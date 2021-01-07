@@ -14,7 +14,7 @@ layout: default
 ---
 
 <div style="text-align:center">
-  <h3>SEND Explorer 7.0 Released!</h3>
+  <h3>SEND Explorer 9.0 Released!</h3>
 
   <img src="/assets/images/sendexplorer-tablet.png" alt="">
   <br>
