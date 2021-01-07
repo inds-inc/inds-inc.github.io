@@ -108,7 +108,7 @@ title:  'SEND Explorer'
 <p>&nbsp;</p>
 
 Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is
-pleased to announce the release of **SEND Explorer® Product Family
+pleased to announce the release of **SEND Explorer<sup>®</sup> Product Family
 v9.0**, a validated, web-based application designed by scientists to
 provide advanced viewing, data summarization, and visualization
 capabilities for study data produced in SEND (Standard for Exchange of
@@ -199,7 +199,7 @@ cross-study reconciliation of terms.
 
 **SEND Explorer V9.0 Functionality, by Product**
 
-<span style="color:limegreen;font-weight:bold;text-decoration:underline">SEND Explorer</span><sup>®</sup> features include:
+<span style="color:limegreen;font-weight:bold;text-decoration:underline">SEND Explorer</span> features include:
 
 -   A robust data grid that merges subject and group metadata with
     associated results
@@ -238,7 +238,7 @@ cross-study reconciliation of terms.
 
 \*New to v9.0; @User-requested enhancements included in v9.0
     
-<span style="color:blue;font-weight:bold;text-decoration:underline">SEND Explorer<sup>®</sup> Plus</span> includes all of the single-study features above as well as:
+<span style="color:blue;font-weight:bold;text-decoration:underline">SEND Explorer Plus</span> includes all of the single-study features above as well as:
 
 -   Straight-forward load interface and study dashboard for filtering
     studies based on selected study metadata criteria
@@ -301,7 +301,7 @@ cross-study reconciliation of terms.
 
 \*New to v9.0; @User-requested enhancements included in v9.0
 
-<span style="color:gold;font-weight:bold;text-decoration:underline">SEND Explorer<sup>®</sup> Gold</span> includes all of the above features in SEND Explorer Plus as well as:
+<span style="color:gold;font-weight:bold;text-decoration:underline">SEND Explorer Gold</span> includes all of the above features in SEND Explorer Plus as well as:
 
 -   Ability to specify SEND or non-SEND data source on upload of data
     file
@@ -324,7 +324,7 @@ cross-study reconciliation of terms.
     
 \* New to v9.0; @User-requested enhancements included in v9.0
 
-<span style="font-weight:bold;text-decoration:underline">SEND Explorer<sup>®</sup> Warehouse</span> includes all of the above features as well as:
+<span style="font-weight:bold;text-decoration:underline">SEND Explorer Warehouse</span> includes all of the above features as well as:
 
 -   Web-based administrative interface for term reconciliation, to
     view/modify mapped terms, and to specify unit transformations
