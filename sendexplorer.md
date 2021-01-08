@@ -15,6 +15,7 @@ scientists for decision-making.
 
 <div style="text-align:center">
   <img src="/assets/images/se-logos.jpg" style="margin-bottom: -1em" alt="Send Explorer Logo">
+   <p>&nbsp;</p>
   <h3>Single Study Visualizations</h3>
 </div>
 <div class="pure-g">
