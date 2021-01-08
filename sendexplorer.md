@@ -3,7 +3,15 @@ layout: default
 title:  'SEND Explorer'
 ---
 
-Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is pleased to announce the release of **SEND Explorer<sup>®</sup> Product Family v9.0**, a validated, web-based application designed by scientists to provide advanced viewing, data summarization, and visualization capabilities for study data produced in SEND (Standard for Exchange of Nonclinical Data) 3.0 format or SEND 3.1 format. SEND Explorer Products allow organizations to leverage their investment in creating SEND datasets for regulatory submissions by making study data accessible to scientists for decision-making. 
+Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is
+pleased to announce the release of **SEND Explorer<sup>®</sup> Product Family
+v9.0**, a validated, web-based application designed by scientists to
+provide advanced viewing, data summarization, and visualization
+capabilities for study data produced in SEND (Standard for Exchange of
+Nonclinical Data) 3.0 format or SEND 3.1 format. SEND Explorer Products
+allow organizations to leverage their investment in creating SEND
+datasets for regulatory submissions by making study data accessible to
+scientists for decision-making.
 
 <div style="text-align:center">
   <img src="/assets/images/se-logos.jpg" style="margin-bottom: -1em" alt="Send Explorer Logo">
@@ -107,16 +115,6 @@ Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is pleased to an
   </div>
 </div>
 <p>&nbsp;</p>
-
-Integrated Nonclinical Development Solutions, Inc. (INDS, Inc.) is
-pleased to announce the release of **SEND Explorer<sup>®</sup> Product Family
-v9.0**, a validated, web-based application designed by scientists to
-provide advanced viewing, data summarization, and visualization
-capabilities for study data produced in SEND (Standard for Exchange of
-Nonclinical Data) 3.0 format or SEND 3.1 format. SEND Explorer Products
-allow organizations to leverage their investment in creating SEND
-datasets for regulatory submissions by making study data accessible to
-scientists for decision-making.
 
 **New features for the v9.0 release include the following:**
 
