@@ -2,19 +2,10 @@
 layout: default
 ---
 
-<!--
-<div style="text-align:center">
-<hr>
-<a href="http://inds-inc.com/2016/02/03/we-hiring/"><img src="/assets/images/we-are-hiring.png"></a><br>
-<a href="http://inds-inc.com/2016/02/03/we-hiring/">Click here for details</a>
-<hr>
-</div>
--->
-
 ---
 
 <h3 style="text-align:center">ANNOUNCEMENT</h3>
-<h4 style="text-align:center">Certara Acquires Integrated Nonclinical Development Solutions<h4>
+<h4 style="text-align:center">Certara Acquires Integrated Nonclinical Development Solutions</h4>
 <p style="font-style:italic; text-align:center">Expands software portfolio and nonclinical drug development expertise</p>
 
 <p>Certara, Inc., a global leader in biosimulation, announced on January 5, 2022 the acquisition of Integrated Nonclinical Development Solutions, Inc. (INDS), a company that provides the SEND Explorer® software and drug development consulting with a focus on nonclinical and toxicology support.</p>
@@ -26,8 +17,6 @@ layout: default
 <p>Certara accelerates medicines using proprietary biosimulation software and technology to transform traditional drug discovery and development. Its clients include 1,650 global biopharmaceutical companies, leading academic institutions, and key regulatory agencies across 61 countries.
 More information about the acquisition may be found <a href="https://www.certara.com/resources/?categories=pressrelease&&categories2=announcement">here</a>.</p>
 
-
----
 
 ### The INDS Advantage
 
