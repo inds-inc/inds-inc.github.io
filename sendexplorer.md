@@ -5,7 +5,7 @@ title:  'SEND Explorer'
 
 SEND Explorer® is validated, web-based application designed by scientists to provide advanced viewing, querying, data summarization, and visualization capabilities for nonclinical study data. SEND Explorer can consume data in SEND 3.0/3.1 format, in a variety of non-SEND data formats (including interim study formats), and via direct connection to a data collection system.  SEND Explorer allows scientists to interact with their study data, visualize patterns and trends, and communicate relationships with other scientists. SEND Explorer allows organizations to leverage their investment in creating SEND datasets for regulatory submissions by making study data and associated visualizations readily-accessible to their scientists for internal decision making.
 
-For more information visit https://www.certara.com/data-and-informatics/send-explorer-software/
+For more information visit [https://www.certara.com/data-and-informatics/send-explorer-software/](https://www.certara.com/data-and-informatics/send-explorer-software/)
 
 <div style="text-align:center">
   <img src="/assets/images/se-logos.jpg" style="margin-bottom: -1em" alt="Send Explorer Logo">
