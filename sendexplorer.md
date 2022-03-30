@@ -111,7 +111,7 @@ For more information visit [https://www.certara.com/data-and-informatics/send-ex
 </div>
 <p>&nbsp;</p>
 
-Products in the **SEND Explorer<sup>®</sup> Product Family v9.0** are now
+Products in the **SEND Explorer<sup>®</sup> Product Family v10.0** are now
 available for purchase. INDS has partnered with Instem for global sales
 and support services. Please contact INDS at
 <a href="mailto:sendexperts@inds-inc.com" class="email">sendexperts@inds-inc.com</a>
