@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  'Toxicology Services'
+layout: forward
+target: https://www.certara.com/services/quantitative-systems-toxicology-safety/
 ---
 
 Toxicology Services
