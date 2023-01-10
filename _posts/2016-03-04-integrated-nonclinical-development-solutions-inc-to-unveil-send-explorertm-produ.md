@@ -1,6 +1,6 @@
 ---
-layout: post  
-title: "Integrated Nonclinical Development Solutions, Inc. To Unveil SEND Explorer™ Product Family Version 4.0 at SOT"
+layout: forward
+target: https://www.certara.com/services/quantitative-systems-toxicology-safety/
 ---
 
 ![clipboard](http://i.imgur.com/sM2WSho.png)
