@@ -1,6 +1,6 @@
 ---
-layout: archive
-title:  'SEND Explorer'
+layout: forward
+target: https://www.certara.com/data-and-informatics/send-explorer-software/
 ---
 
 <div style="text-align:center">
