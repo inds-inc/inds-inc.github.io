@@ -1,6 +1,6 @@
 ---
-layout: post  
-title:  "Joyce Zandee of INDS Inc to Speak at Society of Toxicology 56th Annual Meeting"  
+layout: forward
+target: https://www.certara.com/services/quantitative-systems-toxicology-safety/
 ...
 
 
