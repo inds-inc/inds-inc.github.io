@@ -1,6 +1,6 @@
 ---
-layout: post  
-title:  "Tox Tuesday's - July"  
+layout: forward
+target: https://www.certara.com/services/quantitative-systems-toxicology-safety/
 ...
 
 Our [#ToxTuesday](https://twitter.com/search?q=%23ToxTuesday&src=tyah) posts from July.
