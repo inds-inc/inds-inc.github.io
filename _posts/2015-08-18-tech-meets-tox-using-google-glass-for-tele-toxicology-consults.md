@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Tox Tuesday - Tech meets Tox: Using Google Glass for tele-toxicology consults"
+layout: forward
+target: https://www.certara.com/services/quantitative-systems-toxicology-safety/
 ---
 
 [Emergency medicine residents at UMass Medical School wore
