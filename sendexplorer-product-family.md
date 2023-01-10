@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  'SEND Explorer Product Family'
+layout: forward
+target: https://www.certara.com/data-and-informatics/send-explorer-software/
 ---
 
 SEND Explorer Product Family
