@@ -1,6 +1,6 @@
 ---
-layout: post  
-title: "Tox Tuesday: SEND Explorer to Demo at ACT"
+layout: forward
+target: https://www.certara.com/services/quantitative-systems-toxicology-safety/
 ---
 
 ![HP\_banner](http://i.imgur.com/liEZ2uz.jpg)
