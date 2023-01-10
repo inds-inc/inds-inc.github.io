@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: forward
+target: https://www.certara.com/announcement/certara-acquires-integrated-nonclinical-development-solutions/
 ---
 
 ---
