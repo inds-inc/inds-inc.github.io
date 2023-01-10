@@ -1,6 +1,6 @@
 ---
-layout: post  
-title:  "FDA Clears Oricula Therapeutics Investigational New Drug Application for Clinical Trials"  
+layout: forward
+target: https://www.certara.com/services/quantitative-systems-toxicology-safety/
 ...
 
 ORC-13661 Could Be the First Medicine Approved Specifically to Prevent
