@@ -1,7 +1,13 @@
 ---
 layout: forward
 target: https://www.certara.com/data-and-informatics/send-explorer-software/
+targetname: certara.com
+targettitle: Taking you to example.com
+time: 5
+message: We will redirect you now
 ---
+
+
 
 James R. Herman, PhD, DABT
 --------------------------
