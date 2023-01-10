@@ -1,7 +1,7 @@
 ---
-layout: post  
-title:  A New Way to Define Proarrhythmic Risk? Exploring Human Induced Pluripotent Stem-Cell Derived Cardiomyocytes  
-...
+layout: forward
+target: https://www.certara.com/services/quantitative-systems-toxicology-safety/
+---
 
 by [Krista K Greenwood, PhD](http://inds-inc.com/about/#krista-k-greenwood-phd)
 
