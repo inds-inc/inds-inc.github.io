@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "INDS launches SEND Explorer Plus"
+layout: forward
+target: https://www.certara.com/data-and-informatics/send-explorer-software/
 ---
 
 
