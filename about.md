@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  About
+layout: forward
+target: https://www.certara.com/data-and-informatics/send-explorer-software/
 ---
 
 James R. Herman, PhD, DABT
