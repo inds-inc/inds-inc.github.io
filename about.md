@@ -2,7 +2,7 @@
 layout: forward
 target: https://www.certara.com/data-and-informatics/send-explorer-software/
 targetname: certara.com
-targettitle: Taking you to example.com
+targettitle: Taking you to Certara.com
 time: 5
 message: We will redirect you now
 ---
